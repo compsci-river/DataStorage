@@ -138,3 +138,11 @@ Y,Yellow,Phonetic Alphabet,0,0,0.0,0,0.0
 Z,Zebra,Phonetic Alphabet,0,0,0.0,0,0.0
 Silent Holdup Alarm,27A,Sensitive Incident Codes,0,0,0.0,0,0.0
 Silent Triggered Alarm,27B,Sensitive Incident Codes,0,0,0.0,0,0.0
+Bombing Event,33A,Sensitive Incident Codes,0,0,0.0,0,0.0
+Bomb Threat,33B,Sensitive Incident Codes,0,0,0.0,0,0.0
+Chemical/Biological Weapon,33C,Sensitive Incident Codes,0,0,0.0,0,0.0
+Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,0,0,0.0,0,0.0
+Rape,39A,Sensitive Incident Codes,0,0,0.0,0,0.0
+Other Sexual Assault,39B,Sensitive Incident Codes,0,0,0.0,0,0.0
+Death Homicide,55A,Sensitive Incident Codes,0,0,0.0,0,0.0
+Death Unknown/Natural,55K,Sensitive Incident Codes,0,0,0.0,0,0.0
