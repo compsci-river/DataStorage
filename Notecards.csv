@@ -1,148 +1,148 @@
 Term,Definition,Context,Count,Score,Hot Score,Fade,Sum
-Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,2,2,0.0,-71,-67.0
-SW Caruthers,2400,SW 100 Block,2,2,0.0,-63,-59.0
-Florida,FL,State Abbreviations,2,2,142.0,-4,142.0
-East Precinct,EA,Precinct Abbreviation,2,2,67.0,-51,20.0
-Maine,ME,State Abbreviations,1,1,0.0,-77,-75.0
-Providence Hospital,4805 NE Glisan St,Hospital Address,2,2,102.0,-24,82.0
-Connecticut,CT,State Abbreviations,1,1,0.0,-83,-81.0
-Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,2,2,0.0,-59,-55.0
-Traffic/K9 Division,4735 E Burnside St,Precinct Address,2,2,82.0,-27,59.0
-Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,2,2,79.0,6,89.0
-Louisiana,LA,State Abbreviations,1,1,0.0,-76,-74.0
-Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,2,2,81.0,-46,39.0
-Mt Hood Medical Center,24800 SE Stark St,Hospital Address,2,2,80.0,0,84.0
-California,CA,State Abbreviations,1,1,0.0,-79,-77.0
-Kansas,KS,State Abbreviations,1,1,0.0,-82,-80.0
-Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,2,2,90.0,23,117.0
-SW Spring Garden,8500,SW 100 Block,3,1,0.0,-54,-50.0
-Alabama,AL,State Abbreviations,2,2,152.0,8,164.0
-Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,2,2,0.0,-62,-58.0
-Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,2,2,0.0,-67,-63.0
-SW Hamilton,4500,SW 100 Block,3,1,64.0,29,97.0
-Oregon Health Science University,UH,Hospital Abbreviation,2,2,84.0,33,121.0
-Emanuel Hospital,EM,Hospital Abbreviation,2,2,0.0,-60,-56.0
-Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,4,2,116.0,56,178.0
-Illinois,IL,State Abbreviations,1,1,0.0,-72,-70.0
-SW Multnomah Blvd,8000,SW 100 Block,2,2,93.0,25,122.0
-NW Nicolai,2500,NW 100 Block,3,3,114.0,7,127.0
-SW Stephonson,11800,SW 100 Block,2,2,88.0,-3,89.0
-SW Market,1600,SW 100 Block,3,3,118.0,-3,121.0
-Portland Adventist Hospital,PA,Hospital Abbreviation,3,3,124.0,14,144.0
-Central Precinct,1111 SW 2 Av,Precinct Address,2,2,0.0,-68,-64.0
-Providence Hospital,PR,Hospital Abbreviation,2,2,97.0,-26,75.0
-Alaska,AK,State Abbreviations,1,1,0.0,-84,-82.0
-SW Salmon,1000,SW 100 Block,3,3,138.0,51,195.0
-Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,3,1,-79.0,61,-14.0
-East Precinct,737 SE 106 Av,Precinct Address,3,3,120.0,39,165.0
-NW Vaughn,2000,NW 100 Block,2,2,99.0,45,148.0
-Gresham PD,1333 NW Eastman Pkwy,Precinct Address,2,2,86.0,-12,78.0
-Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,3,1,77.0,59,140.0
-North Precinct,449 NE Emerson St,Precinct Address,2,2,95.0,30,129.0
-North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,2,2,94.0,7,105.0
-East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,2,2,22.0,-55,-29.0
-Georgia,GA,State Abbreviations,2,2,144.0,65,213.0
-SW Clay,1500,SW 100 Block,3,3,126.0,35,167.0
-Colorado,CO,State Abbreviations,2,2,150.0,20,174.0
-NW Lovejoy,1000,NW 100 Block,2,2,0.0,-70,-66.0
-Arizona,AZ,State Abbreviations,2,0,0.0,-66,-64.0
-District of Columbia,DC,State Abbreviations,2,2,146.0,38,188.0
-Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,2,2,0.0,-64,-60.0
-Hawaii,HI,State Abbreviations,1,1,0.0,-74,-72.0
-Good Samaritan Hospital,GS,Hospital Abbreviation,2,2,92.0,-7,89.0
-Unity Center for Behavioral Health,UB,Hospital Abbreviation,2,0,0.0,-58,-56.0
-Indiana,IN,State Abbreviations,2,2,140.0,61,205.0
-Portland Adventist Hospital,10123 SE Market St,Hospital Address,2,2,104.0,37,145.0
-Kentucky,KY,State Abbreviations,2,2,156.0,77,237.0
-Vibra Specialty Hospital,VB,Hospital Abbreviation,2,2,100.0,-12,92.0
-SW Washington,500,SW 100 Block,3,3,112.0,35,153.0
-Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,2,2,4.0,-57,-49.0
-Central Precinct,CE,Precinct Abbreviation,3,3,130.0,49,185.0
-Delaware,DE,State Abbreviations,1,1,0.0,-78,-76.0
-SW Vermont,6700,SW 100 Block,3,3,132.0,44,182.0
-Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,2,2,58.0,-52,10.0
-Mt Hood Medical Center,MH,Hospital Abbreviation,2,2,89.0,37,130.0
-Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,2,2,83.0,15,102.0
-Veteran's Hospital,VA,Hospital Abbreviation,3,3,148.0,21,175.0
-Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,3,1,0.0,-61,-57.0
-Idaho,ID,State Abbreviations,1,1,0.0,-80,-78.0
-Arkansas,AR,State Abbreviations,2,0,-79.0,67,-10.0
-Iowa,IA,State Abbreviations,1,1,0.0,-81,-79.0
-Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,3,3,110.0,34,150.0
-Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,2,2,49.0,-53,0.0
-Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,2,2,98.0,-18,84.0
-North Precinct,NO,Precinct Abbreviation,2,2,91.0,-22,73.0
-Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,3,1,122.0,56,182.0
-NW Glisan,500,NW 100 Block,2,2,13.0,-56,-39.0
-Maryland,MD,State Abbreviations,1,1,0.0,-75,-73.0
-Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,2,2,106.0,43,153.0
-Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,2,2,87.0,18,109.0
-Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,2,2,85.0,-36,53.0
-Massachusetts,MA,State Abbreviations,0,0,0.0,0,0.0
-Michigan,MI,State Abbreviations,0,0,0.0,0,0.0
-Minnesota,MN,State Abbreviations,0,0,0.0,0,0.0
-Mississippi,MS,State Abbreviations,0,0,0.0,0,0.0
-Missouri,MO,State Abbreviations,0,0,0.0,0,0.0
-Montana,MT,State Abbreviations,0,0,0.0,0,0.0
-Nebraska,NE,State Abbreviations,0,0,0.0,0,0.0
-Nevada,NV,State Abbreviations,0,0,0.0,0,0.0
-New Hampshire,NH,State Abbreviations,0,0,0.0,0,0.0
-New Jersey,NJ,State Abbreviations,0,0,0.0,0,0.0
-New Mexico,NM,State Abbreviations,0,0,0.0,0,0.0
-New York,NY,State Abbreviations,0,0,0.0,0,0.0
-North Carolina,NC,State Abbreviations,0,0,0.0,0,0.0
-North Dakota,ND,State Abbreviations,0,0,0.0,0,0.0
-Ohio,OH,State Abbreviations,0,0,0.0,0,0.0
-Oklahoma,OK,State Abbreviations,0,0,0.0,0,0.0
-Oregon,OR,State Abbreviations,0,0,0.0,0,0.0
-Pennsylvania,PA,State Abbreviations,0,0,0.0,0,0.0
-Rhode Island,RI,State Abbreviations,0,0,0.0,0,0.0
-South Carolina,SC,State Abbreviations,0,0,0.0,0,0.0
-South Dakota,SD,State Abbreviations,0,0,0.0,0,0.0
-Tennesse,TN,State Abbreviations,0,0,0.0,0,0.0
-Texas,TX,State Abbreviations,0,0,0.0,0,0.0
-Utah,UT,State Abbreviations,0,0,0.0,0,0.0
-Vermont,VT,State Abbreviations,0,0,0.0,0,0.0
-Virginia,VA,State Abbreviations,0,0,0.0,0,0.0
-Washington,WA,State Abbreviations,0,0,0.0,0,0.0
-West Virginia,WV,State Abbreviations,0,0,0.0,0,0.0
-Wisconsin,WI,State Abbreviations,0,0,0.0,0,0.0
-Wyoming,WY,State Abbreviations,0,0,0.0,0,0.0
-7 Western,H1,State Abbreviations,0,0,0.0,0,0.0
-All 50,Z1,State Abbreviations,0,0,0.0,0,0.0
-A,Adam,Phonetic Alphabet,0,0,0.0,0,0.0
-B,Baker,Phonetic Alphabet,0,0,0.0,0,0.0
-C,Charlie,Phonetic Alphabet,0,0,0.0,0,0.0
-D,David,Phonetic Alphabet,0,0,0.0,0,0.0
-E,Edward,Phonetic Alphabet,0,0,0.0,0,0.0
-F,Frank,Phonetic Alphabet,0,0,0.0,0,0.0
-G,George,Phonetic Alphabet,0,0,0.0,0,0.0
-H,Henry,Phonetic Alphabet,0,0,0.0,0,0.0
-I,Ida,Phonetic Alphabet,0,0,0.0,0,0.0
-J,John,Phonetic Alphabet,0,0,0.0,0,0.0
-K,King,Phonetic Alphabet,0,0,0.0,0,0.0
-L,Lincoln,Phonetic Alphabet,0,0,0.0,0,0.0
-M,Mary,Phonetic Alphabet,0,0,0.0,0,0.0
-N,Nora,Phonetic Alphabet,0,0,0.0,0,0.0
-O,Ocean,Phonetic Alphabet,0,0,0.0,0,0.0
-P,Paul,Phonetic Alphabet,0,0,0.0,0,0.0
-Q,Queen,Phonetic Alphabet,0,0,0.0,0,0.0
-R,Rodger,Phonetic Alphabet,0,0,0.0,0,0.0
-S,Sam,Phonetic Alphabet,0,0,0.0,0,0.0
-T,Tom,Phonetic Alphabet,0,0,0.0,0,0.0
-U,Union,Phonetic Alphabet,0,0,0.0,0,0.0
-V,Victor,Phonetic Alphabet,0,0,0.0,0,0.0
-W,William,Phonetic Alphabet,0,0,0.0,0,0.0
-X,X-ray,Phonetic Alphabet,0,0,0.0,0,0.0
-Y,Yellow,Phonetic Alphabet,0,0,0.0,0,0.0
-Z,Zebra,Phonetic Alphabet,0,0,0.0,0,0.0
-Silent Holdup Alarm,27A,Sensitive Incident Codes,0,0,0.0,0,0.0
-Silent Triggered Alarm,27B,Sensitive Incident Codes,0,0,0.0,0,0.0
-Bombing Event,33A,Sensitive Incident Codes,0,0,0.0,0,0.0
-Bomb Threat,33B,Sensitive Incident Codes,0,0,0.0,0,0.0
-Chemical/Biological Weapon,33C,Sensitive Incident Codes,0,0,0.0,0,0.0
-Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,0,0,0.0,0,0.0
-Rape,39A,Sensitive Incident Codes,0,0,0.0,0,0.0
-Other Sexual Assault,39B,Sensitive Incident Codes,0,0,0.0,0,0.0
-Death Homicide,55A,Sensitive Incident Codes,0,0,0.0,0,0.0
-Death Unknown/Natural,55K,Sensitive Incident Codes,0,0,0.0,0,0.0
+Tennesse,TN,State Abbreviations,1,1,293.0,73,368.0
+Q,Queen,Phonetic Alphabet,0,0,0.0,-50,-50.0
+G,George,Phonetic Alphabet,0,0,0.0,-50,-50.0
+North Precinct,449 NE Emerson St,Precinct Address,2,2,45.0,-20,29.0
+Arizona,AZ,State Abbreviations,3,1,259.0,-20,243.0
+SW Salmon,1000,SW 100 Block,3,3,88.0,1,95.0
+Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,3,3,261.0,89,356.0
+Mississippi,MS,State Abbreviations,0,0,0.0,-50,-50.0
+New Mexico,NM,State Abbreviations,1,1,282.0,98,382.0
+Providence Hospital,4805 NE Glisan St,Hospital Address,2,2,52.0,-74,-18.0
+Gresham PD,1333 NW Eastman Pkwy,Precinct Address,2,2,36.0,-62,-22.0
+North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,2,2,44.0,-43,5.0
+District of Columbia,DC,State Abbreviations,2,2,96.0,-12,88.0
+Kansas,KS,State Abbreviations,2,2,246.0,-29,221.0
+Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,2,2,40.0,-27,17.0
+Emanuel Hospital,EM,Hospital Abbreviation,3,3,265.0,56,327.0
+Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,2,2,56.0,-7,53.0
+Vibra Specialty Hospital,VB,Hospital Abbreviation,2,2,50.0,-62,-8.0
+Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,3,3,282.0,121,409.0
+West Virginia,WV,State Abbreviations,0,0,0.0,-50,-50.0
+SW Washington,500,SW 100 Block,3,3,62.0,-15,53.0
+Texas,TX,State Abbreviations,0,0,0.0,-50,-50.0
+Missouri,MO,State Abbreviations,0,0,0.0,-50,-50.0
+B,Baker,Phonetic Alphabet,0,0,0.0,-50,-50.0
+East Precinct,737 SE 106 Av,Precinct Address,3,3,70.0,-11,65.0
+Nevada,NV,State Abbreviations,0,0,0.0,-50,-50.0
+Florida,FL,State Abbreviations,2,2,92.0,-54,42.0
+Massachusetts,MA,State Abbreviations,0,0,0.0,-50,-50.0
+H,Henry,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,3,1,27.0,9,40.0
+Central Precinct,CE,Precinct Abbreviation,3,3,80.0,-1,85.0
+Ohio,OH,State Abbreviations,0,0,0.0,-50,-50.0
+J,John,Phonetic Alphabet,0,0,0.0,-50,-50.0
+V,Victor,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Indiana,IN,State Abbreviations,2,2,90.0,11,105.0
+Portland Adventist Hospital,10123 SE Market St,Hospital Address,2,2,54.0,-13,45.0
+Bomb Threat,33B,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,3,3,256.0,69,331.0
+North Carolina,NC,State Abbreviations,0,0,0.0,-50,-50.0
+Oklahoma,OK,State Abbreviations,0,0,0.0,-50,-50.0
+Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,4,2,264.0,25,295.0
+Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,2,2,37.0,-32,9.0
+Maryland,MD,State Abbreviations,2,2,253.0,-15,242.0
+South Carolina,SC,State Abbreviations,0,0,0.0,-50,-50.0
+Oregon Health Science University,UH,Hospital Abbreviation,2,2,34.0,-17,21.0
+Connecticut,CT,State Abbreviations,2,2,245.0,33,282.0
+R,Rodger,Phonetic Alphabet,0,0,0.0,-50,-50.0
+New Jersey,NJ,State Abbreviations,0,0,0.0,-50,-50.0
+East Precinct,EA,Precinct Abbreviation,3,3,293.0,-4,295.0
+Illinois,IL,State Abbreviations,2,2,255.0,-23,236.0
+Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,3,3,267.0,79,352.0
+Silent Triggered Alarm,27B,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,2,2,33.0,-35,2.0
+Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,3,3,60.0,-16,50.0
+Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,4,2,195.0,84,285.0
+Chemical/Biological Weapon,33C,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+Mt Hood Medical Center,24800 SE Stark St,Hospital Address,2,2,30.0,-50,-16.0
+U,Union,Phonetic Alphabet,0,0,0.0,-50,-50.0
+S,Sam,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,4,2,66.0,6,78.0
+Michigan,MI,State Abbreviations,0,0,0.0,-50,-50.0
+Kentucky,KY,State Abbreviations,2,2,106.0,27,137.0
+Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,3,3,287.0,15,308.0
+All 50,Z1,State Abbreviations,0,0,0.0,-50,-50.0
+New York,NY,State Abbreviations,0,0,0.0,-50,-50.0
+Utah,UT,State Abbreviations,1,1,278.0,116,396.0
+Georgia,GA,State Abbreviations,2,2,94.0,15,113.0
+O,Ocean,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Nebraska,NE,State Abbreviations,0,0,0.0,-50,-50.0
+Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,3,1,72.0,6,82.0
+Silent Holdup Alarm,27A,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+L,Lincoln,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Y,Yellow,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Bombing Event,33A,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+SW Stephonson,11800,SW 100 Block,2,2,38.0,-53,-11.0
+K,King,Phonetic Alphabet,0,0,0.0,-50,-50.0
+North Precinct,NO,Precinct Abbreviation,2,2,41.0,-72,-27.0
+NW Lovejoy,1000,NW 100 Block,3,3,257.0,22,285.0
+7 Western,H1,State Abbreviations,1,1,277.0,101,380.0
+Other Sexual Assault,39B,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+Maine,ME,State Abbreviations,2,2,251.0,64,319.0
+N,Nora,Phonetic Alphabet,1,1,292.0,13,307.0
+SW Caruthers,2400,SW 100 Block,3,3,262.0,79,347.0
+D,David,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Unity Center for Behavioral Health,UB,Hospital Abbreviation,3,1,266.0,-3,267.0
+Idaho,ID,State Abbreviations,2,2,248.0,80,332.0
+Z,Zebra,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Pennsylvania,PA,State Abbreviations,0,0,0.0,-50,-50.0
+Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,2,2,48.0,-68,-16.0
+SW Market,1600,SW 100 Block,3,3,68.0,-53,21.0
+California,CA,State Abbreviations,2,2,249.0,85,338.0
+A,Adam,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Delaware,DE,State Abbreviations,2,2,250.0,-13,241.0
+South Dakota,SD,State Abbreviations,0,0,0.0,-50,-50.0
+W,William,Phonetic Alphabet,1,1,285.0,36,323.0
+Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,2,2,35.0,-86,-47.0
+Good Samaritan Hospital,GS,Hospital Abbreviation,2,2,42.0,-57,-11.0
+SW Clay,1500,SW 100 Block,3,3,76.0,-15,67.0
+Central Precinct,1111 SW 2 Av,Precinct Address,3,3,258.0,95,359.0
+SW Spring Garden,8500,SW 100 Block,4,2,271.0,121,398.0
+Iowa,IA,State Abbreviations,2,2,247.0,52,303.0
+Wisconsin,WI,State Abbreviations,1,1,287.0,134,423.0
+P,Paul,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Alaska,AK,State Abbreviations,2,2,244.0,-45,203.0
+F,Frank,Phonetic Alphabet,1,1,280.0,111,393.0
+Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,3,3,260.0,20,286.0
+I,Ida,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Oregon,OR,State Abbreviations,0,0,0.0,-50,-50.0
+Washington,WA,State Abbreviations,1,1,289.0,31,322.0
+North Dakota,ND,State Abbreviations,0,0,0.0,-50,-50.0
+Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,2,2,29.0,-44,-11.0
+Veteran's Hospital,VA,Hospital Abbreviation,3,3,98.0,-29,75.0
+T,Tom,Phonetic Alphabet,1,1,291.0,140,433.0
+SW Multnomah Blvd,8000,SW 100 Block,2,2,43.0,-25,22.0
+Providence Hospital,PR,Hospital Abbreviation,2,2,47.0,-76,-25.0
+Arkansas,AR,State Abbreviations,3,1,197.0,125,326.0
+NW Nicolai,2500,NW 100 Block,3,3,64.0,-43,27.0
+Rape,39A,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+C,Charlie,Phonetic Alphabet,0,0,0.0,-50,-50.0
+SW Hamilton,4500,SW 100 Block,3,1,14.0,-21,-3.0
+Louisiana,LA,State Abbreviations,2,2,252.0,52,308.0
+Portland Adventist Hospital,PA,Hospital Abbreviation,3,3,74.0,-36,44.0
+E,Edward,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Wyoming,WY,State Abbreviations,1,1,281.0,29,312.0
+East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,3,3,270.0,83,359.0
+X,X-ray,Phonetic Alphabet,1,1,288.0,26,316.0
+Mt Hood Medical Center,MH,Hospital Abbreviation,2,2,39.0,-13,30.0
+Virginia,VA,State Abbreviations,0,0,0.0,-50,-50.0
+Alabama,AL,State Abbreviations,2,2,102.0,-42,64.0
+SW Vermont,6700,SW 100 Block,3,3,82.0,-6,82.0
+Minnesota,MN,State Abbreviations,0,0,0.0,-50,-50.0
+Montana,MT,State Abbreviations,1,1,279.0,49,330.0
+NW Glisan,500,NW 100 Block,3,3,269.0,35,310.0
+Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,3,3,315.0,1,322.0
+Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,3,3,263.0,-5,264.0
+Death Unknown/Natural,55K,Sensitive Incident Codes,1,1,286.0,24,312.0
+Traffic/K9 Division,4735 E Burnside St,Precinct Address,2,2,32.0,-77,-41.0
+M,Mary,Phonetic Alphabet,0,0,0.0,-50,-50.0
+Colorado,CO,State Abbreviations,2,2,100.0,-30,74.0
+Death Homicide,55A,Sensitive Incident Codes,1,1,290.0,25,317.0
+Rhode Island,RI,State Abbreviations,0,0,0.0,-50,-50.0
+NW Vaughn,2000,NW 100 Block,2,2,49.0,-5,48.0
+New Hampshire,NH,State Abbreviations,0,0,0.0,-50,-50.0
+Vermont,VT,State Abbreviations,1,1,283.0,32,317.0
+Hawaii,HI,State Abbreviations,2,2,254.0,55,313.0
+Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,0,0,0.0,-50,-50.0
+Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,3,3,268.0,94,368.0
