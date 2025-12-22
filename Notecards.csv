@@ -1,4 +1,4 @@
-Term,Definition,Context,Count,Score,Hot Score,Fade,importim
+Term,Definition,Context,Count,Score,Hot Score,Fade,
 North Precinct,449 NE Emerson St,Precinct Address,0,0,0,0,
 North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,0,0,0,0,
 Central Precinct,1111 SW 2 Av,Precinct Address,0,0,0,0,
@@ -56,4 +56,5 @@ SW Caruthers,2400,SW 100 Block,0,0,0,0,
 SW Hamilton,4500,SW 100 Block,0,0,0,0,
 SW Washington,500,SW 100 Block,0,0,0,0,
 SW Stephonson,11800,SW 100 Block,0,0,0,0,
+
 NW Glisan,500,NW 100 Block,0,0,0,0,
