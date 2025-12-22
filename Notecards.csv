@@ -1,59 +1,59 @@
 Term,Definition,Context,Count,Score,Hot Score,Fade,Sum
-NW Nicolai,2500,NW 100 Block,1,1,1,-3,-1
-Central Precinct,CE,Precinct Abbreviation,0,0,0,-5,-5
-SW Market,1600,SW 100 Block,0,0,0,-5,-5
-Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,0,0,0,-5,-5
-SW Clay,1500,SW 100 Block,0,0,0,-5,-5
-Good Samaritan Hospital,GS,Hospital Abbreviation,0,0,0,-5,-5
-East Precinct,EA,Precinct Abbreviation,0,0,0,-5,-5
-Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,0,0,0,-5,-5
-SW Spring Garden,8500,SW 100 Block,0,0,0,-5,-5
-Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,0,0,0,-5,-5
-Veteran's Hospital,VA,Hospital Abbreviation,0,0,0,-5,-5
-Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,0,0,0,-5,-5
-North Precinct,449 NE Emerson St,Precinct Address,0,0,0,-5,-5
-SW Hamilton,4500,SW 100 Block,0,0,0,-5,-5
-SW Vermont,6700,SW 100 Block,0,0,0,-5,-5
-Traffic/K9 Division,4735 E Burnside St,Precinct Address,0,0,0,-5,-5
-Emanuel Hospital,EM,Hospital Abbreviation,0,0,0,-5,-5
-Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,0,0,0,-5,-5
-Unity Center for Behavioral Health,UB,Hospital Abbreviation,0,0,0,-5,-5
-SW Stephonson,11800,SW 100 Block,0,0,0,-5,-5
-East Precinct,737 SE 106 Av,Precinct Address,0,0,0,-5,-5
-Central Precinct,1111 SW 2 Av,Precinct Address,0,0,0,-5,-5
-Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,0,0,0,-5,-5
-Portland Adventist Hospital,PA,Hospital Abbreviation,0,0,0,-5,-5
-Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,0,0,0,-5,-5
-North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,0,0,0,-5,-5
-Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,0,0,0,-5,-5
-SW Salmon,1000,SW 100 Block,0,0,0,-5,-5
-Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,0,0,0,-5,-5
-Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,0,0,0,-5,-5
-Vibra Specialty Hospital,VB,Hospital Abbreviation,0,0,0,-5,-5
-Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,0,0,0,-5,-5
-Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,0,0,0,-5,-5
-Providence Hospital,PR,Hospital Abbreviation,0,0,0,-5,-5
-Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,1,1,0,-5,-4
-NW Vaughn,2000,NW 100 Block,0,0,0,-5,-5
-SW Caruthers,2400,SW 100 Block,0,0,0,-5,-5
-SW Washington,500,SW 100 Block,1,1,0,-4,-3
-Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,0,0,0,-5,-5
-Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,2,0,2,-1,1
-SW Multnomah Blvd,8000,SW 100 Block,0,0,0,-5,-5
-Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,0,0,0,-5,-5
-Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,0,0,0,-5,-5
-North Precinct,NO,Precinct Abbreviation,0,0,0,-5,-5
-Oregon Health Science University,UH,Hospital Abbreviation,0,0,0,-5,-5
-Gresham PD,1333 NW Eastman Pkwy,Precinct Address,0,0,0,-5,-5
-NW Lovejoy,1000,NW 100 Block,0,0,0,-5,-5
-Mt Hood Medical Center,24800 SE Stark St,Hospital Address,0,0,0,-5,-5
-Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,0,0,0,-5,-5
-Providence Hospital,4805 NE Glisan St,Hospital Address,0,0,0,-5,-5
-Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Address,0,0,0,-5,-5
-Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,0,0,0,-5,-5
-Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,0,0,0,-5,-5
-East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,0,0,0,-5,-5
-NW Glisan,500,NW 100 Block,0,0,0,-5,-5
-Mt Hood Medical Center,MH,Hospital Abbreviation,0,0,0,-5,-5
-Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,0,0,0,-5,-5
-Portland Adventist Hospital,10123 SE Market St,Hospital Address,0,0,0,-5,-5
+Central Precinct,CE,Precinct Abbreviation,1,1,5,-1,6
+Veteran's Hospital,VA,Hospital Abbreviation,0,0,0,-10,-10
+Providence Hospital,PR,Hospital Abbreviation,0,0,0,-10,-10
+SW Washington,500,SW 100 Block,1,1,0,-9,-7
+Oregon Health Science University,UH,Hospital Abbreviation,0,0,0,-10,-10
+SW Vermont,6700,SW 100 Block,0,0,0,-10,-10
+Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,2,0,0,-6,-4
+Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,0,0,0,-10,-10
+Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,0,0,0,-10,-10
+Providence Hospital,4805 NE Glisan St,Hospital Address,0,0,0,-10,-10
+Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,0,0,0,-10,-10
+East Precinct,737 SE 106 Av,Precinct Address,1,1,0,-4,-2
+Good Samaritan Hospital,GS,Hospital Abbreviation,0,0,0,-10,-10
+Unity Center for Behavioral Health,UB,Hospital Abbreviation,0,0,0,-10,-10
+Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,0,0,0,-10,-10
+Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,0,0,0,-10,-10
+Portland Adventist Hospital,PA,Hospital Abbreviation,1,1,1,-3,0
+Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,0,0,0,-10,-10
+Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,0,0,0,-10,-10
+East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,0,0,0,-10,-10
+SW Multnomah Blvd,8000,SW 100 Block,0,0,0,-10,-10
+Central Precinct,1111 SW 2 Av,Precinct Address,0,0,0,-10,-10
+Emanuel Hospital,EM,Hospital Abbreviation,0,0,0,-10,-10
+Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,0,0,0,-10,-10
+Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,0,0,0,-10,-10
+SW Market,1600,SW 100 Block,1,1,0,-5,-3
+Mt Hood Medical Center,24800 SE Stark St,Hospital Address,0,0,0,-10,-10
+Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,0,0,0,-10,-10
+Mt Hood Medical Center,MH,Hospital Abbreviation,0,0,0,-10,-10
+Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,0,0,0,-10,-10
+Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,0,0,0,-10,-10
+Gresham PD,1333 NW Eastman Pkwy,Precinct Address,0,0,0,-10,-10
+Vibra Specialty Hospital,VB,Hospital Abbreviation,0,0,0,-10,-10
+NW Vaughn,2000,NW 100 Block,0,0,0,-10,-10
+East Precinct,EA,Precinct Abbreviation,0,0,0,-10,-10
+NW Nicolai,2500,NW 100 Block,1,1,0,-8,-6
+North Precinct,NO,Precinct Abbreviation,0,0,0,-10,-10
+NW Glisan,500,NW 100 Block,0,0,0,-10,-10
+North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,0,0,0,-10,-10
+SW Hamilton,4500,SW 100 Block,0,0,0,-10,-10
+Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,0,0,0,-10,-10
+SW Salmon,1000,SW 100 Block,0,0,0,-10,-10
+Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,0,0,0,-10,-10
+Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,0,0,0,-10,-10
+Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,1,1,0,-10,-8
+Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,0,0,0,-10,-10
+Portland Adventist Hospital,10123 SE Market St,Hospital Address,0,0,0,-10,-10
+Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Address,0,0,0,-10,-10
+Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,0,0,0,-10,-10
+Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,0,0,0,-10,-10
+North Precinct,449 NE Emerson St,Precinct Address,0,0,0,-10,-10
+Traffic/K9 Division,4735 E Burnside St,Precinct Address,0,0,0,-10,-10
+NW Lovejoy,1000,NW 100 Block,0,0,0,-10,-10
+SW Clay,1500,SW 100 Block,1,1,2,-2,2
+Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,0,0,0,-10,-10
+SW Stephonson,11800,SW 100 Block,0,0,0,-10,-10
+SW Spring Garden,8500,SW 100 Block,0,0,0,-10,-10
+SW Caruthers,2400,SW 100 Block,0,0,0,-10,-10
