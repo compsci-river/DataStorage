@@ -1,244 +1,244 @@
 Term,Definition,Context,Count,Score,Hot Score,Fade,Sum
-Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,4,4,428.0,5,441.0
-Connecticut,CT,State Abbreviations,3,3,410.0,-55,361.0
-Date of Birth,DOB,Common Abbreviations,1,1,329.0,-79,252.0
-Traffic/K9 Division,4735 E Burnside St,Precinct Address,4,4,461.0,138,607.0
-Red,RED,Color Abbreviations,1,1,376.0,-58,320.0
-Arizona,AZ,State Abbreviations,4,2,412.0,-31,387.0
-Disturbance,DIST,Common Abbreviations,1,1,304.0,-101,205.0
-Between,BTWN,Common Abbreviations,1,1,368.0,71,441.0
-Illinois,IL,State Abbreviations,3,3,407.0,7,420.0
-Behind,BEH,Common Abbreviations,1,1,295.0,-184,113.0
-Oklahoma,OK,State Abbreviations,2,2,479.0,123,606.0
-Hawaii,HI,State Abbreviations,3,3,422.0,89,517.0
-M,Mary,Phonetic Alphabet,2,2,439.0,66,509.0
-Providence Hospital,4805 NE Glisan St,Hospital Address,4,4,481.0,154,643.0
-West Virginia,WV,State Abbreviations,2,2,451.0,154,609.0
-Direction,DIR,Common Abbreviations,1,1,360.0,57,419.0
-Good Samaritan Hospital,GS,Hospital Abbreviation,4,4,510.0,108,626.0
-Business,BUSN,Common Abbreviations,1,1,337.0,-32,307.0
-Porsche,PORS,Vehicle Abbreviations,2,0,143.0,121,266.0
-Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,4,4,435.0,-33,410.0
-Nissan,NISS,Vehicle Abbreviations,1,1,301.0,-78,225.0
-Rhode Island,RI,State Abbreviations,2,2,481.0,-9,476.0
-Death Homicide,55A,Sensitive Incident Codes,2,2,442.0,-54,392.0
-North Precinct,449 NE Emerson St,Precinct Address,3,3,260.0,17,283.0
-Complainant,COMP,Common Abbreviations,1,1,327.0,47,376.0
-Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,4,4,418.0,-4,422.0
-Indiana,IN,State Abbreviations,3,3,280.0,-96,190.0
-Unity Center for Behavioral Health,UB,Hospital Abbreviation,4,2,420.0,-74,352.0
-American Motors,AMC,Vehicle Abbreviations,1,1,348.0,42,392.0
-SW Stephonson,11800,SW 100 Block,3,3,247.0,-94,159.0
-K,King,Phonetic Alphabet,1,1,246.0,-94,154.0
-Mitsubishi,MITS,Vehicle Abbreviations,1,1,351.0,-131,222.0
-Asian Male,AM,Common Abbreviations,1,1,306.0,25,333.0
-Silent Triggered Alarm,27B,Sensitive Incident Codes,2,2,481.0,-8,477.0
-SW Washington,500,SW 100 Block,4,4,265.0,-4,269.0
-All 50,Z1,State Abbreviations,2,2,471.0,100,575.0
-Buick,BUIC,Vehicle Abbreviations,1,1,324.0,-137,189.0
-New York,NY,State Abbreviations,2,2,521.0,169,694.0
-Brown,BRN,Color Abbreviations,1,1,345.0,28,375.0
-T,Tom,Phonetic Alphabet,2,2,467.0,103,574.0
-Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,4,4,435.0,136,579.0
-SW Salmon,1000,SW 100 Block,4,4,276.0,-198,86.0
-Minnesota,MN,State Abbreviations,1,1,239.0,-173,68.0
-Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,3,3,254.0,-3,257.0
-Oregon,OR,State Abbreviations,2,2,486.0,201,691.0
-SW Caruthers,2400,SW 100 Block,4,4,434.0,-49,393.0
-B,Baker,Phonetic Alphabet,2,2,478.0,157,639.0
-Oregon Health Science University,UH,Hospital Abbreviation,3,3,261.0,-103,164.0
-Polestar,PLSR,Vehicle Abbreviations,1,1,344.0,49,395.0
-Appointment,APPT,Common Abbreviations,1,1,375.0,-40,337.0
-Washington,WA,State Abbreviations,2,2,443.0,81,528.0
-Also Known As,AKA,Common Abbreviations,1,1,310.0,-98,214.0
-Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,4,4,438.0,25,471.0
-Dodge,DODG,Vehicle Abbreviations,1,1,289.0,7,298.0
-Contact/Continue,CONT,Common Abbreviations,1,1,284.0,-85,201.0
-Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,4,4,458.0,183,649.0
-L,Lincoln,Phonetic Alphabet,2,2,467.0,-47,424.0
-V,Victor,Phonetic Alphabet,2,2,463.0,-43,424.0
-Domestic Violence,DV,Common Abbreviations,3,1,524.0,36,564.0
-Texas,TX,State Abbreviations,1,1,245.0,-106,141.0
-Company/County,CO,Common Abbreviations,1,1,334.0,-100,236.0
-Triumph,TRIU,Vehicle Abbreviations,1,1,357.0,58,417.0
-NW Glisan,500,NW 100 Block,4,4,427.0,149,584.0
-Veteran's Hospital,VA,Hospital Abbreviation,4,4,276.0,-48,236.0
-Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,4,4,441.0,5,454.0
-Virginia,VA,State Abbreviations,2,2,496.0,194,694.0
-Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,3,3,271.0,-112,165.0
-Chemical/Biological Weapon,33C,Sensitive Incident Codes,1,1,237.0,-192,47.0
-Apartment,APT,Common Abbreviations,1,1,318.0,21,341.0
-Central Precinct,1111 SW 2 Av,Precinct Address,4,4,434.0,162,604.0
-California,CA,State Abbreviations,3,3,426.0,4,436.0
-Attempt to Locate,ATL,Common Abbreviations,1,1,354.0,-33,323.0
-SW Market,1600,SW 100 Block,4,4,251.0,-162,97.0
-Cadillac,CADI,Vehicle Abbreviations,1,1,341.0,74,417.0
-Suzuki,SUZI,Vehicle Abbreviations,1,1,353.0,85,440.0
-Maryland,MD,State Abbreviations,3,3,409.0,-4,411.0
-Cream,CRM,Color Abbreviations,1,1,364.0,-46,320.0
-Gresham PD,1333 NW Eastman Pkwy,Precinct Address,4,4,503.0,51,562.0
-SW Vermont,6700,SW 100 Block,4,4,273.0,-164,117.0
-Portland Adventist Hospital,PA,Hospital Abbreviation,4,4,258.0,-30,236.0
-Tesla,TESL,Vehicle Abbreviations,1,1,297.0,-49,250.0
-Q,Queen,Phonetic Alphabet,2,2,460.0,173,637.0
-Medium,MED,Color Abbreviations,1,1,314.0,-14,302.0
-U,Union,Phonetic Alphabet,1,1,243.0,-164,81.0
-Different/Difficult,DIFF,Common Abbreviations,1,1,356.0,89,447.0
-Idaho,ID,State Abbreviations,3,3,425.0,54,485.0
-H,Henry,Phonetic Alphabet,2,2,492.0,13,509.0
-Blue,BLU,Color Abbreviations,1,1,305.0,-92,215.0
-Community Center,CC,Common Abbreviations,1,1,346.0,88,436.0
-New Jersey,NJ,State Abbreviations,2,2,479.0,98,581.0
-White,WHI,Color Abbreviations,1,1,355.0,-62,295.0
-NW Nicolai,2500,NW 100 Block,4,4,252.0,-13,247.0
-New Hampshire,NH,State Abbreviations,2,2,474.0,174,652.0
-Kentucky,KY,State Abbreviations,3,3,287.0,0,293.0
-Michigan,MI,State Abbreviations,2,2,456.0,133,593.0
-Orange,ORG,Color Abbreviations,1,1,309.0,-101,210.0
-Turquoise,TRQ,Color Abbreviations,1,1,288.0,-172,118.0
-Wisconsin,WI,State Abbreviations,2,2,463.0,191,658.0
-Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,5,3,278.0,-43,243.0
-O,Ocean,Phonetic Alphabet,1,1,236.0,-47,191.0
-Nebraska,NE,State Abbreviations,2,2,499.0,53,556.0
-Assault,ASSLT,Common Abbreviations,1,1,322.0,-62,262.0
-Cooperative,COOP,Common Abbreviations,1,1,287.0,-164,125.0
-Blue Jeans,BJS,Common Abbreviations,1,1,296.0,-42,256.0
-Gold,GLD,Color Abbreviations,1,1,372.0,29,403.0
-Vermont,VT,State Abbreviations,2,2,438.0,158,600.0
-Breathing,BR,Common Abbreviations,1,1,291.0,-125,168.0
-Y,Yellow,Phonetic Alphabet,1,1,238.0,-139,101.0
-SW Clay,1500,SW 100 Block,4,4,266.0,-61,213.0
-Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,4,4,418.0,51,477.0
-Beige,BGE,Color Abbreviations,1,1,285.0,-36,251.0
-Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,3,3,250.0,-143,113.0
-Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,5,3,283.0,90,381.0
-Vibra Specialty Hospital,VB,Hospital Abbreviation,4,4,511.0,12,531.0
-Do Not Give Out,DNGO,Common Abbreviations,1,1,369.0,-61,310.0
-Burgundy,BURG,Color Abbreviations,1,1,317.0,-53,266.0
-Customer/Custody,CUST,Common Abbreviations,1,1,371.0,-83,290.0
-Columbia Slough Trail,CST,Common Abbreviations,1,1,315.0,-116,201.0
-Chevrolet,CHEV,Vehicle Abbreviations,1,1,283.0,-151,134.0
-Check,CK,Common Abbreviations,1,1,308.0,-100,210.0
-Nevada,NV,State Abbreviations,3,1,293.0,42,339.0
-N,Nora,Phonetic Alphabet,2,2,437.0,-39,402.0
-Delaware,DE,State Abbreviations,4,2,296.0,224,526.0
-Black Female,BF,Common Abbreviations,1,1,321.0,-37,286.0
-7 Western,H1,State Abbreviations,2,2,447.0,16,467.0
-Boyfriend,BOYF,Common Abbreviations,1,1,343.0,94,439.0
-Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,5,3,421.0,105,534.0
-Volkswagen,VW,Vehicle Abbreviations,1,1,374.0,31,407.0
-Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,3,3,253.0,-117,142.0
-North Carolina,NC,State Abbreviations,2,2,473.0,172,649.0
-Light,LT,Color Abbreviations,1,1,361.0,-102,261.0
-W,William,Phonetic Alphabet,2,2,441.0,-16,429.0
-Louisiana,LA,State Abbreviations,3,3,418.0,154,578.0
-Iowa,IA,State Abbreviations,3,3,414.0,-54,366.0
-Saturn,STRN,Vehicle Abbreviations,1,1,350.0,99,451.0
-Mississippi,MS,State Abbreviations,2,2,460.0,84,548.0
-Central Precinct,CE,Precinct Abbreviation,4,4,275.0,-116,167.0
-Subaru,SUBA,Vehicle Abbreviations,1,1,384.0,-18,368.0
-East Precinct,EA,Precinct Abbreviation,4,4,436.0,-70,374.0
-Daughter,DOTR,Common Abbreviations,1,1,325.0,67,394.0
-J,John,Phonetic Alphabet,2,2,445.0,35,484.0
-G,George,Phonetic Alphabet,2,2,514.0,230,748.0
-Oldsmobile,OLDS,Vehicle Abbreviations,1,1,313.0,57,372.0
-Tennesse,TN,State Abbreviations,2,2,454.0,61,519.0
-Silver,SILV,Color Abbreviations,1,1,303.0,-103,202.0
-Emanuel Hospital,EM,Hospital Abbreviation,4,4,432.0,-8,432.0
-Black Male,BM,Common Abbreviations,1,1,319.0,29,350.0
-D,David,Phonetic Alphabet,2,2,479.0,146,629.0
-Ohio,OH,State Abbreviations,2,2,477.0,54,535.0
-Dark,DRK,Color Abbreviations,1,1,326.0,-86,242.0
-E,Edward,Phonetic Alphabet,2,2,482.0,50,536.0
-Eagle,EGIL,Vehicle Abbreviations,1,1,359.0,23,384.0
-SW Multnomah Blvd,8000,SW 100 Block,3,3,258.0,-144,120.0
-Burglary,BURG,Common Abbreviations,1,1,286.0,-101,187.0
-Infinity,INFI,Vehicle Abbreviations,1,1,335.0,61,398.0
-South Dakota,SD,State Abbreviations,2,2,488.0,63,555.0
-Alabama,AL,State Abbreviations,3,3,275.0,-210,71.0
-Toyota,TOYT,Vehicle Abbreviations,1,1,290.0,-145,147.0
-Kansas,KS,State Abbreviations,3,3,395.0,-121,280.0
-Mercury,MERC,Vehicle Abbreviations,1,1,300.0,-2,300.0
-X,X-ray,Phonetic Alphabet,2,2,440.0,40,484.0
-Lincoln,LINC,Vehicle Abbreviations,1,1,330.0,-152,180.0
-Grey,GRY,Color Abbreviations,1,1,339.0,-72,269.0
-Black,BLK,Color Abbreviations,1,1,366.0,-17,351.0
-East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,4,4,441.0,30,479.0
-Community Garden,CG,Common Abbreviations,1,1,342.0,-121,223.0
-Utah,UT,State Abbreviations,2,2,453.0,177,634.0
-Currently,CURR,Common Abbreviations,1,1,307.0,-42,267.0
-New Mexico,NM,State Abbreviations,2,2,450.0,-17,437.0
-Drunk,DK,Common Abbreviations,1,1,323.0,-38,287.0
-East Precinct,737 SE 106 Av,Precinct Address,4,4,270.0,4,282.0
-Rape,39A,Sensitive Incident Codes,2,2,459.0,145,608.0
-Daewoo,DAEW,Vehicle Abbreviations,1,1,362.0,90,454.0
-Florida,FL,State Abbreviations,3,3,266.0,-20,252.0
-North Precinct,NO,Precinct Abbreviation,4,4,476.0,158,642.0
-South Carolina,SC,State Abbreviations,2,2,476.0,112,592.0
-R,Rodger,Phonetic Alphabet,1,1,240.0,-77,165.0
-Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,4,2,279.0,-65,220.0
-Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,4,2,277.0,-1,282.0
-Corner,CRNR,Common Abbreviations,1,1,292.0,-51,243.0
-Anonymous,ANON,Common Abbreviations,1,1,352.0,89,443.0
-Do Not Broadcast,DNB,Common Abbreviations,1,1,333.0,-76,259.0
-Death Unknown/Natural,55K,Sensitive Incident Codes,2,2,437.0,129,570.0
-Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,4,4,263.0,-87,184.0
-Conscious,CONS,Common Abbreviations,1,1,370.0,-42,330.0
-North Dakota,ND,State Abbreviations,2,2,508.0,124,636.0
-NW Lovejoy,1000,NW 100 Block,4,4,416.0,-74,350.0
-Portland Adventist Hospital,10123 SE Market St,Hospital Address,3,3,267.0,-156,117.0
-Pontiac,PONT,Vehicle Abbreviations,1,1,382.0,100,484.0
-Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,4,4,742.0,63,813.0
-Peugeot,PEUG,Vehicle Abbreviations,1,1,336.0,17,355.0
-Bombing Event,33A,Sensitive Incident Codes,2,2,473.0,10,487.0
-District of Columbia,DC,State Abbreviations,3,3,278.0,-97,187.0
-Z,Zebra,Phonetic Alphabet,2,2,525.0,204,733.0
-Providence Hospital,PR,Hospital Abbreviation,4,4,504.0,123,635.0
-Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,4,4,445.0,45,498.0
-I,Ida,Phonetic Alphabet,2,2,474.0,157,635.0
-Colorado,CO,State Abbreviations,3,3,277.0,-164,119.0
-Hyundai,HYUN,Vehicle Abbreviations,1,1,381.0,30,413.0
-Pennsylvania,PA,State Abbreviations,2,2,461.0,42,507.0
-Wyoming,WY,State Abbreviations,2,2,434.0,0,438.0
-Plymouth,PLYM,Vehicle Abbreviations,1,1,385.0,111,498.0
-Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,4,4,459.0,125,592.0
-Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,5,3,394.0,128,530.0
-P,Paul,Phonetic Alphabet,1,1,242.0,-173,71.0
-Yellow,YEL,Color Abbreviations,1,1,328.0,-9,321.0
-C,Charlie,Phonetic Alphabet,2,2,481.0,138,623.0
-Green,GRN,Color Abbreviations,1,1,378.0,93,473.0
-Kawasaki,KAW,Vehicle Abbreviations,1,1,365.0,-40,327.0
-Volvo,VOLV,Vehicle Abbreviations,1,1,347.0,57,406.0
-Alaska,AK,State Abbreviations,3,3,385.0,-110,281.0
-Other Sexual Assault,39B,Sensitive Incident Codes,2,2,474.0,142,620.0
-Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,1,1,241.0,-177,66.0
-S,Sam,Phonetic Alphabet,2,2,443.0,-61,386.0
-SW Spring Garden,8500,SW 100 Block,5,3,450.0,33,491.0
-Yamaha,YAMA,Vehicle Abbreviations,1,1,302.0,-28,276.0
-Arkansas,AR,State Abbreviations,4,2,430.0,67,503.0
-Missouri,MO,State Abbreviations,1,1,244.0,-119,127.0
-North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,3,3,251.0,-217,40.0
-Asian Female,AF,Common Abbreviations,1,1,311.0,-59,254.0
-Mt Hood Medical Center,24800 SE Stark St,Hospital Address,3,3,248.0,-62,192.0
-Massachusetts,MA,State Abbreviations,2,2,505.0,199,708.0
-Callback,CB,Common Abbreviations,1,1,298.0,45,345.0
-Bike Path,BP,Common Abbreviations,1,1,349.0,88,439.0
-Daihatsu,DAIH,Vehicle Abbreviations,1,1,332.0,-97,237.0
-Building,BLDG,Common Abbreviations,1,1,299.0,-23,278.0
-Baseball Cap,BBCAP,Common Abbreviations,1,1,320.0,53,375.0
-A,Adam,Phonetic Alphabet,2,2,515.0,120,639.0
-Mercedes Benz,MERZ,Vehicle Abbreviations,1,1,338.0,-2,338.0
-Purple,PURP,Color Abbreviations,1,1,331.0,51,384.0
-Georgia,GA,State Abbreviations,3,3,281.0,-40,247.0
-Montana,MT,State Abbreviations,2,2,439.0,98,541.0
-Silent Holdup Alarm,27A,Sensitive Incident Codes,2,2,492.0,99,595.0
-Maroon,MAR,Color Abbreviations,1,1,383.0,25,410.0
-NW Vaughn,2000,NW 100 Block,3,3,272.0,-209,69.0
-SW Hamilton,4500,SW 100 Block,4,2,259.0,-152,113.0
-Mt Hood Medical Center,MH,Hospital Abbreviation,3,3,264.0,-38,232.0
-F,Frank,Phonetic Alphabet,2,2,452.0,180,636.0
-Chrysler,CHRY,Vehicle Abbreviations,1,1,312.0,-14,300.0
-Maine,ME,State Abbreviations,3,3,423.0,132,561.0
-Bomb Threat,33B,Sensitive Incident Codes,2,2,478.0,185,667.0
-Jaguar,JAG,Vehicle Abbreviations,1,1,363.0,-63,302.0
-Datsun,DATS,Vehicle Abbreviations,1,1,367.0,-86,283.0
+N,Nora,Phonetic Alphabet,2,2,387.0,-89,302.0
+Gold,GLD,Color Abbreviations,1,1,322.0,-21,303.0
+Mitsubishi,MITS,Vehicle Abbreviations,1,1,301.0,-181,122.0
+Corner,CRNR,Common Abbreviations,1,1,242.0,-101,143.0
+Company/County,CO,Common Abbreviations,1,1,284.0,-150,136.0
+Michigan,MI,State Abbreviations,2,2,406.0,83,493.0
+Complainant,COMP,Common Abbreviations,1,1,277.0,-3,276.0
+Louisiana,LA,State Abbreviations,3,3,368.0,104,478.0
+Hawaii,HI,State Abbreviations,3,3,372.0,39,417.0
+California,CA,State Abbreviations,3,3,376.0,-46,336.0
+Hyundai,HYUN,Vehicle Abbreviations,1,1,331.0,-20,313.0
+Yellow,YEL,Color Abbreviations,1,1,278.0,-59,221.0
+Tesla,TESL,Vehicle Abbreviations,1,1,247.0,-99,150.0
+X,X-ray,Phonetic Alphabet,2,2,390.0,-10,384.0
+Chrysler,CHRY,Vehicle Abbreviations,1,1,262.0,-64,200.0
+Maryland,MD,State Abbreviations,3,3,359.0,-54,311.0
+Oldsmobile,OLDS,Vehicle Abbreviations,1,1,263.0,7,272.0
+Virginia,VA,State Abbreviations,2,2,441.0,144,589.0
+Illinois,IL,State Abbreviations,3,3,357.0,-43,320.0
+Rhode Island,RI,State Abbreviations,2,2,431.0,-59,376.0
+Missouri,MO,State Abbreviations,2,2,650.0,128,782.0
+Medium,MED,Color Abbreviations,1,1,264.0,-64,202.0
+Daughter,DOTR,Common Abbreviations,1,1,275.0,17,294.0
+Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,5,3,344.0,78,430.0
+Date of Birth,DOB,Common Abbreviations,1,1,279.0,-129,152.0
+Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,4,4,662.0,216,886.0
+SW Market,1600,SW 100 Block,5,5,646.0,34,690.0
+Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,5,5,682.0,4,696.0
+Good Samaritan Hospital,GS,Hospital Abbreviation,4,4,448.0,58,514.0
+Porsche,PORS,Vehicle Abbreviations,2,0,93.0,71,166.0
+Pontiac,PONT,Vehicle Abbreviations,1,1,332.0,50,384.0
+Wyoming,WY,State Abbreviations,2,2,384.0,-50,338.0
+Bombing Event,33A,Sensitive Incident Codes,2,2,423.0,-40,387.0
+Nebraska,NE,State Abbreviations,2,2,442.0,3,449.0
+S,Sam,Phonetic Alphabet,2,2,393.0,-111,286.0
+Mercedes Benz,MERZ,Vehicle Abbreviations,1,1,288.0,-52,238.0
+P,Paul,Phonetic Alphabet,2,2,633.0,-26,611.0
+Suzuki,SUZI,Vehicle Abbreviations,1,1,303.0,35,340.0
+Anonymous,ANON,Common Abbreviations,1,1,302.0,39,343.0
+American Motors,AMC,Vehicle Abbreviations,1,1,298.0,-8,292.0
+R,Rodger,Phonetic Alphabet,2,2,654.0,123,781.0
+SW Vermont,6700,SW 100 Block,5,3,0.0,135,143.0
+Between,BTWN,Common Abbreviations,1,1,318.0,21,341.0
+Community Center,CC,Common Abbreviations,1,1,296.0,38,336.0
+M,Mary,Phonetic Alphabet,2,2,389.0,16,409.0
+Jaguar,JAG,Vehicle Abbreviations,1,1,313.0,-113,202.0
+T,Tom,Phonetic Alphabet,2,2,417.0,53,474.0
+Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,4,4,686.0,63,757.0
+Iowa,IA,State Abbreviations,3,3,364.0,-104,266.0
+Bomb Threat,33B,Sensitive Incident Codes,2,2,428.0,135,567.0
+Volvo,VOLV,Vehicle Abbreviations,1,1,297.0,7,306.0
+Wisconsin,WI,State Abbreviations,2,2,413.0,141,558.0
+Plymouth,PLYM,Vehicle Abbreviations,1,1,335.0,61,398.0
+Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,4,4,368.0,-54,322.0
+All 50,Z1,State Abbreviations,2,2,421.0,50,475.0
+Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,4,2,227.0,-51,182.0
+Beige,BGE,Color Abbreviations,1,1,235.0,-86,151.0
+NW Vaughn,2000,NW 100 Block,4,4,662.0,89,759.0
+Nevada,NV,State Abbreviations,3,1,243.0,-8,239.0
+Attempt to Locate,ATL,Common Abbreviations,1,1,304.0,-83,223.0
+North Carolina,NC,State Abbreviations,2,2,423.0,122,549.0
+Assault,ASSLT,Common Abbreviations,1,1,272.0,-112,162.0
+Nissan,NISS,Vehicle Abbreviations,1,1,251.0,-128,125.0
+Texas,TX,State Abbreviations,2,2,653.0,40,697.0
+Cream,CRM,Color Abbreviations,1,1,314.0,-96,220.0
+Asian Female,AF,Common Abbreviations,1,1,261.0,-109,154.0
+Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,3,3,204.0,-53,157.0
+Arkansas,AR,State Abbreviations,4,2,380.0,17,403.0
+Arizona,AZ,State Abbreviations,4,2,362.0,-81,287.0
+Brown,BRN,Color Abbreviations,1,1,295.0,-22,275.0
+Mt Hood Medical Center,MH,Hospital Abbreviation,3,3,214.0,-88,132.0
+Burgundy,BURG,Color Abbreviations,1,1,267.0,-103,166.0
+Domestic Violence,DV,Common Abbreviations,3,1,455.0,-14,445.0
+Death Unknown/Natural,55K,Sensitive Incident Codes,2,2,387.0,79,470.0
+Lincoln,LINC,Vehicle Abbreviations,2,2,748.0,79,831.0
+Y,Yellow,Phonetic Alphabet,2,2,634.0,122,760.0
+Alaska,AK,State Abbreviations,3,3,335.0,-160,181.0
+SW Clay,1500,SW 100 Block,5,5,698.0,181,889.0
+Kansas,KS,State Abbreviations,3,3,345.0,-171,180.0
+Vibra Specialty Hospital,VB,Hospital Abbreviation,4,4,448.0,-38,418.0
+SW Stephonson,11800,SW 100 Block,4,4,659.0,218,885.0
+North Precinct,449 NE Emerson St,Precinct Address,3,3,210.0,-33,183.0
+Blue Jeans,BJS,Common Abbreviations,1,1,246.0,-92,156.0
+Contact/Continue,CONT,Common Abbreviations,2,2,711.0,51,766.0
+Dark,DRK,Color Abbreviations,1,1,276.0,-136,142.0
+Emanuel Hospital,EM,Hospital Abbreviation,4,4,382.0,-58,332.0
+G,George,Phonetic Alphabet,2,2,450.0,180,634.0
+Dodge,DODG,Vehicle Abbreviations,1,1,239.0,-43,198.0
+Breathing,BR,Common Abbreviations,2,2,708.0,223,935.0
+Indiana,IN,State Abbreviations,4,4,703.0,14,725.0
+SW Multnomah Blvd,8000,SW 100 Block,4,4,662.0,2,672.0
+Massachusetts,MA,State Abbreviations,2,2,445.0,149,598.0
+Drunk,DK,Common Abbreviations,1,1,273.0,-88,187.0
+Mercury,MERC,Vehicle Abbreviations,1,1,250.0,-52,200.0
+D,David,Phonetic Alphabet,2,2,429.0,96,529.0
+New Jersey,NJ,State Abbreviations,2,2,429.0,48,481.0
+W,William,Phonetic Alphabet,2,2,391.0,-66,329.0
+Burglary,BURG,Common Abbreviations,2,2,707.0,127,838.0
+Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,5,3,714.0,173,895.0
+South Dakota,SD,State Abbreviations,2,2,437.0,13,454.0
+Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,4,4,385.0,86,479.0
+Light,LT,Color Abbreviations,1,1,311.0,-152,161.0
+C,Charlie,Phonetic Alphabet,2,2,431.0,88,523.0
+Z,Zebra,Phonetic Alphabet,2,2,455.0,154,613.0
+Central Precinct,CE,Precinct Abbreviation,5,5,691.0,146,847.0
+Utah,UT,State Abbreviations,2,2,403.0,127,534.0
+L,Lincoln,Phonetic Alphabet,2,2,417.0,-97,324.0
+J,John,Phonetic Alphabet,2,2,395.0,-15,384.0
+Orange,ORG,Color Abbreviations,2,2,740.0,59,803.0
+Conscious,CONS,Common Abbreviations,1,1,320.0,-92,230.0
+Q,Queen,Phonetic Alphabet,2,2,410.0,123,537.0
+Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,5,3,233.0,40,281.0
+Washington,WA,State Abbreviations,2,2,393.0,31,428.0
+Bike Path,BP,Common Abbreviations,1,1,299.0,38,339.0
+Silent Holdup Alarm,27A,Sensitive Incident Codes,2,2,439.0,49,492.0
+Rape,39A,Sensitive Incident Codes,2,2,409.0,95,508.0
+Currently,CURR,Common Abbreviations,1,1,257.0,-92,167.0
+East Precinct,737 SE 106 Av,Precinct Address,4,4,220.0,-46,182.0
+Silent Triggered Alarm,27B,Sensitive Incident Codes,2,2,431.0,-58,377.0
+Oregon,OR,State Abbreviations,2,2,436.0,151,591.0
+Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,4,4,395.0,-5,398.0
+Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,4,4,378.0,-45,341.0
+Mt Hood Medical Center,24800 SE Stark St,Hospital Address,4,4,673.0,221,902.0
+Business,BUSN,Common Abbreviations,1,1,287.0,-82,207.0
+Behind,BEH,Common Abbreviations,2,2,693.0,35,732.0
+Providence Hospital,PR,Hospital Abbreviation,4,4,445.0,73,526.0
+Subaru,SUBA,Vehicle Abbreviations,1,1,334.0,-68,268.0
+Toyota,TOYT,Vehicle Abbreviations,2,2,700.0,57,761.0
+Portland Adventist Hospital,10123 SE Market St,Hospital Address,4,4,667.0,-5,670.0
+Callback,CB,Common Abbreviations,1,1,248.0,-5,245.0
+Oklahoma,OK,State Abbreviations,2,2,429.0,73,506.0
+O,Ocean,Phonetic Alphabet,2,2,660.0,101,765.0
+New Mexico,NM,State Abbreviations,2,2,400.0,-67,337.0
+Florida,FL,State Abbreviations,3,3,216.0,-70,152.0
+Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,2,2,629.0,61,694.0
+A,Adam,Phonetic Alphabet,2,2,450.0,70,524.0
+Blue,BLU,Color Abbreviations,2,2,739.0,110,853.0
+Apartment,APT,Common Abbreviations,1,1,268.0,-29,241.0
+Eagle,EGIL,Vehicle Abbreviations,1,1,309.0,-27,284.0
+Do Not Broadcast,DNB,Common Abbreviations,1,1,283.0,-126,159.0
+East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,4,4,391.0,-20,379.0
+Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,4,4,385.0,-83,310.0
+Do Not Give Out,DNGO,Common Abbreviations,1,1,319.0,-111,210.0
+Yamaha,YAMA,Vehicle Abbreviations,1,1,252.0,-78,176.0
+Triumph,TRIU,Vehicle Abbreviations,1,1,307.0,8,317.0
+Buick,BUIC,Vehicle Abbreviations,2,0,31.0,136,169.0
+South Carolina,SC,State Abbreviations,2,2,426.0,62,492.0
+West Virginia,WV,State Abbreviations,2,2,401.0,104,509.0
+Also Known As,AKA,Common Abbreviations,2,2,743.0,132,879.0
+NW Glisan,500,NW 100 Block,4,4,377.0,99,484.0
+Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,4,4,408.0,133,549.0
+North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,4,4,637.0,-38,607.0
+Customer/Custody,CUST,Common Abbreviations,1,1,321.0,-133,190.0
+Idaho,ID,State Abbreviations,3,3,375.0,4,385.0
+Delaware,DE,State Abbreviations,4,2,246.0,174,426.0
+Different/Difficult,DIFF,Common Abbreviations,1,1,306.0,39,347.0
+Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,4,4,409.0,75,492.0
+Alabama,AL,State Abbreviations,4,4,667.0,198,873.0
+NW Lovejoy,1000,NW 100 Block,4,4,366.0,-124,250.0
+New York,NY,State Abbreviations,2,2,453.0,119,576.0
+Portland Adventist Hospital,PA,Hospital Abbreviation,4,4,208.0,-80,136.0
+Chevrolet,CHEV,Vehicle Abbreviations,2,2,690.0,14,708.0
+Kentucky,KY,State Abbreviations,3,3,237.0,-50,193.0
+B,Baker,Phonetic Alphabet,2,2,428.0,107,539.0
+Colorado,CO,State Abbreviations,4,4,680.0,12,700.0
+Check,CK,Common Abbreviations,2,2,738.0,146,888.0
+Death Homicide,55A,Sensitive Incident Codes,2,2,392.0,-104,292.0
+K,King,Phonetic Alphabet,2,2,657.0,139,800.0
+Daihatsu,DAIH,Vehicle Abbreviations,1,1,282.0,-147,137.0
+Columbia Slough Trail,CST,Common Abbreviations,2,2,741.0,90,835.0
+Oregon Health Science University,UH,Hospital Abbreviation,4,4,674.0,31,713.0
+Green,GRN,Color Abbreviations,1,1,328.0,43,373.0
+SW Hamilton,4500,SW 100 Block,5,3,658.0,-4,662.0
+Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,4,4,388.0,-25,371.0
+Building,BLDG,Common Abbreviations,1,1,249.0,-73,178.0
+Vermont,VT,State Abbreviations,2,2,388.0,108,500.0
+SW Caruthers,2400,SW 100 Block,4,4,384.0,-99,293.0
+Black Female,BF,Common Abbreviations,1,1,271.0,-87,186.0
+Boyfriend,BOYF,Common Abbreviations,1,1,293.0,44,339.0
+Cooperative,COOP,Common Abbreviations,2,2,692.0,37,733.0
+V,Victor,Phonetic Alphabet,2,2,413.0,-93,324.0
+Community Garden,CG,Common Abbreviations,1,1,292.0,-171,123.0
+White,WHI,Color Abbreviations,1,1,305.0,-112,195.0
+Unity Center for Behavioral Health,UB,Hospital Abbreviation,4,2,370.0,-124,252.0
+Other Sexual Assault,39B,Sensitive Incident Codes,2,2,424.0,92,520.0
+7 Western,H1,State Abbreviations,2,2,397.0,-34,367.0
+Maroon,MAR,Color Abbreviations,1,1,333.0,-25,310.0
+Asian Male,AM,Common Abbreviations,1,1,256.0,-25,233.0
+Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,5,3,371.0,55,434.0
+Georgia,GA,State Abbreviations,3,3,231.0,-90,147.0
+SW Washington,500,SW 100 Block,4,4,215.0,-54,169.0
+Turquoise,TRQ,Color Abbreviations,2,2,690.0,102,796.0
+District of Columbia,DC,State Abbreviations,4,4,698.0,26,732.0
+Traffic/K9 Division,4735 E Burnside St,Precinct Address,4,4,411.0,88,507.0
+Cadillac,CADI,Vehicle Abbreviations,1,1,291.0,24,317.0
+Baseball Cap,BBCAP,Common Abbreviations,1,1,270.0,3,275.0
+Minnesota,MN,State Abbreviations,2,2,628.0,-11,621.0
+E,Edward,Phonetic Alphabet,2,2,432.0,0,436.0
+Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,4,4,368.0,1,377.0
+Central Precinct,1111 SW 2 Av,Precinct Address,4,4,384.0,112,504.0
+Providence Hospital,4805 NE Glisan St,Hospital Address,4,4,431.0,104,543.0
+F,Frank,Phonetic Alphabet,2,2,402.0,130,536.0
+Datsun,DATS,Vehicle Abbreviations,1,1,317.0,-136,183.0
+Saturn,STRN,Vehicle Abbreviations,1,1,300.0,49,351.0
+U,Union,Phonetic Alphabet,2,2,636.0,45,685.0
+Disturbance,DIST,Common Abbreviations,2,2,733.0,50,787.0
+Gresham PD,1333 NW Eastman Pkwy,Precinct Address,4,4,444.0,1,453.0
+Mississippi,MS,State Abbreviations,2,2,410.0,34,448.0
+SW Salmon,1000,SW 100 Block,5,5,670.0,-31,649.0
+Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,4,4,391.0,-45,354.0
+Appointment,APPT,Common Abbreviations,1,1,325.0,-90,237.0
+Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,5,3,228.0,-93,143.0
+East Precinct,EA,Precinct Abbreviation,4,4,386.0,-120,274.0
+New Hampshire,NH,State Abbreviations,2,2,424.0,124,552.0
+Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,4,4,647.0,64,719.0
+Veteran's Hospital,VA,Hospital Abbreviation,4,4,226.0,-98,136.0
+Montana,MT,State Abbreviations,2,2,389.0,48,441.0
+Ohio,OH,State Abbreviations,2,2,427.0,4,435.0
+Grey,GRY,Color Abbreviations,1,1,289.0,-122,169.0
+Infinity,INFI,Vehicle Abbreviations,1,1,285.0,11,298.0
+North Dakota,ND,State Abbreviations,2,2,447.0,74,525.0
+Chemical/Biological Weapon,33C,Sensitive Incident Codes,2,2,624.0,129,757.0
+Silver,SILV,Color Abbreviations,2,0,10.0,160,172.0
+Maine,ME,State Abbreviations,3,3,373.0,82,461.0
+North Precinct,NO,Precinct Abbreviation,4,4,426.0,108,542.0
+H,Henry,Phonetic Alphabet,2,2,439.0,-37,406.0
+NW Nicolai,2500,NW 100 Block,4,4,202.0,-63,147.0
+Connecticut,CT,State Abbreviations,3,3,360.0,-105,261.0
+Kawasaki,KAW,Vehicle Abbreviations,1,1,315.0,-90,227.0
+I,Ida,Phonetic Alphabet,2,2,424.0,107,535.0
+Daewoo,DAEW,Vehicle Abbreviations,1,1,312.0,40,354.0
+Direction,DIR,Common Abbreviations,1,1,310.0,7,319.0
+Purple,PURP,Color Abbreviations,1,1,281.0,1,284.0
+Polestar,PLSR,Vehicle Abbreviations,1,1,294.0,-1,295.0
+Black,BLK,Color Abbreviations,1,1,316.0,-67,251.0
+Red,RED,Color Abbreviations,1,1,326.0,-108,220.0
+Black Male,BM,Common Abbreviations,1,1,269.0,-21,250.0
+Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,4,4,642.0,13,663.0
+Peugeot,PEUG,Vehicle Abbreviations,1,1,286.0,-33,255.0
+Pennsylvania,PA,State Abbreviations,2,2,411.0,-8,407.0
+Tennesse,TN,State Abbreviations,2,2,404.0,11,419.0
+Volkswagen,VW,Vehicle Abbreviations,1,1,324.0,-19,307.0
+SW Spring Garden,8500,SW 100 Block,5,3,400.0,-17,391.0
