@@ -242,3 +242,17 @@ Pennsylvania,PA,State Abbreviations,2,2,411.0,-8,407.0
 Tennesse,TN,State Abbreviations,2,2,404.0,11,419.0
 Volkswagen,VW,Vehicle Abbreviations,1,1,324.0,-19,307.0
 SW Spring Garden,8500,SW 100 Block,5,3,400.0,-17,391.0
+CIVIL,7,Type Code Priority,0,0,0.0,0,0.0
+ASSLT,7,Type Code Priority,0,0,0.0,0,0.0
+HARASS,7,Type Code Priority,0,0,0.0,0,0.0
+ROVIO,7,Type Code Priority,0,0,0.0,0,0.0
+SEX,7,Type Code Priority,0,0,0.0,0,0.0
+THEFT,7,Type Code Priority,0,0,0.0,0,0.0
+PROP,7,Type Code Priority,0,0,0.0,0,0.0
+VEHST,7,Type Code Priority,0,0,0.0,0,0.0
+VEHREC,7,Type Code Priority,0,0,0.0,0,0.0
+FRAUD,7,Type Code Priority,0,0,0.0,0,0.0
+ROB,7,Type Code Priority,0,0,0.0,0,0.0
+BURG,7,Type Code Priority,0,0,0.0,0,0.0
+TRASH,7,Type Code Priority,0,0,0.0,0,0.0
+VAND,7,Type Code Priority,0,0,0.0,0,0.0
