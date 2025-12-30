@@ -272,3 +272,22 @@ White,WHI,Color Abbreviations,2,2,635.0,82,721.0
 TRASHP,4,Type Code Priority,1,1,410.0,-73,339.0
 Turquoise,TRQ,Color Abbreviations,2,2,468.0,-48,424.0
 Also Known As,AKA,Common Abbreviations,2,2,494.0,-18,480.0
+VANDP,3,Type Code Priority,0,0,0.0,0,0.0
+PROWLP,3,Type Code Priority,0,0,0.0,0,0.0
+VEHSTP,3,Type Code Priority,0,0,0.0,0,0.0
+FRAUDP,3,Type Code Priority,0,0,0.0,0,0.0
+BURGP,3,Type Code Priority,0,0,0.0,0,0.0
+PREMCK,3,Type Code Priority,0,0,0.0,0,0.0
+ALRMBP,3,Type Code Priority,0,0,0.0,0,0.0
+HARASP,3,Type Code Priority,0,0,0.0,0,0.0
+ALRMS,2,Type Code Priority,0,0,0.0,0,0.0
+ROBP,2,Type Code Priority,0,0,0.0,0,0.0
+ASSLTP,2,Type Code Priority,0,0,0.0,0,0.0
+ABUSEP,2,Type Code Priority,0,0,0.0,0,0.0
+DISTP,2,Type Code Priority,0,0,0.0,0,0.0
+DOMP,2,Type Code Priority,0,0,0.0,0,0.0
+KIDNAP,2,Type Code Priority,0,0,0.0,0,0.0
+RAPEP,2,Type Code Priority,0,0,0.0,0,0.0
+ROVIOP,2,Type Code Priority,0,0,0.0,0,0.0
+THRETP,2,Type Code Priority,0,0,0.0,0,0.0
+ANIMLP,2,Type Code Priority,0,0,0.0,0,0.0
