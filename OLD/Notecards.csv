@@ -34,7 +34,7 @@ VEHSTP,3,Type Code Priority,2,0,581.0,69,652.0
 LOMBARD/I5[EB RAMP TO SB I5,LOMBARD/I5[WB RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-480,-480.0
 BURGP,3,Type Code Priority,2,0,514.0,201,717.0
 CHEM,2,Type Code Priority,0,0,0.0,-480,-480.0
-NB I5 TO/GOING,EB FREMONT BRG TO/NB I5,I5 Previous Ramp,0,0,0.0,-480,-480.0
+NB I5 TO/GOING,NB FREMONT BRG TO/NB I5,I5 Previous Ramp,0,0,0.0,-480,-480.0
 SEX,7,Type Code Priority,4,0,586.0,556,1146.0
 SB I5 TO/TERWILLIGER,HOOD/GAINES[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-480,-480.0
 Woodstock,6000,100 Blocks - SE St,2,0,211.0,-163,50.0
@@ -147,7 +147,7 @@ Abdominal Pain,1,EMD Protocols,1,1,740.0,18,760.0
 Belmont,900,100 Blocks - SE St,1,1,1032.0,293,1327.0
 TMET,6,Type Code Priority,1,1,1128.0,192,1322.0
 BARBUR/64[RAMP TO SB I5,SB I5 TO/PACIFIC HWY,I5 Previous Ramp,3,1,1589.0,510,2103.0
-EB FREMONT BRG TO/NB I5,NB I5 TO/GOING,I5 Next Ramp,1,1,1179.0,583,1764.0
+NB FREMONT BRG TO/NB I5,NB I5 TO/GOING,I5 Next Ramp,1,1,1179.0,583,1764.0
 NB I5 TO/JANTZEN BEACH,JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,I5 Next Ramp,1,1,1103.0,502,1607.0
 MORRISON BRG TO/NB I5,NB I5 TO/EB I84,I5 Previous Ramp,1,1,829.0,67,898.0
 SUICDW,1,Type Code Priority,1,1,865.0,-304,563.0
@@ -594,3 +594,4 @@ East Precinct,EA,Precinct Abbreviation,5,5,268.0,-490,-212.0
 Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,5,5,886.0,115,1011.0
 Veteran's Hospital,VA,Hospital Abbreviation,5,5,52.0,-544,-482.0
 East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,5,5,898.0,-301,607.0
+
