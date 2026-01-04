@@ -516,7 +516,6 @@ Q,Queen,Phonetic Alphabet,3,3,1087.0,48,1141.0
 Wyoming,WY,State Abbreviations,3,3,975.0,-71,910.0
 D,David,Phonetic Alphabet,3,3,1092.0,439,1537.0
 West Virginia,WV,State Abbreviations,3,3,1068.0,335,1409.0
-SW Hamilton,4500,SW 100 Block,5,3,72.0,-534,-454.0
 Silent Triggered Alarm,27B,Sensitive Incident Codes,3,3,1018.0,-115,909.0
 X,X-ray,Phonetic Alphabet,3,3,1001.0,-53,954.0
 North Dakota,ND,State Abbreviations,3,3,1099.0,-67,1038.0
@@ -543,9 +542,6 @@ M,Mary,Phonetic Alphabet,3,3,1012.0,105,1123.0
 Death Homicide,55A,Sensitive Incident Codes,3,3,385.0,-285,106.0
 Connecticut,CT,State Abbreviations,4,4,338.0,-374,-28.0
 Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,4,4,74.0,-314,-232.0
-SW Spring Garden,8500,SW 100 Block,6,4,1009.0,275,1294.0
-SW Multnomah Blvd,8000,SW 100 Block,4,4,74.0,-528,-446.0
-NW Glisan,500,NW 100 Block,6,4,457.0,96,563.0
 Alabama,AL,State Abbreviations,4,4,76.0,-332,-248.0
 Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,4,4,64.0,-517,-445.0
 Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,6,4,219.0,-401,-172.0
@@ -561,13 +557,11 @@ Kentucky,KY,State Abbreviations,4,4,186.0,-303,-109.0
 Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,4,4,66.0,-466,-392.0
 Colorado,CO,State Abbreviations,4,4,83.0,-518,-427.0
 Maine,ME,State Abbreviations,4,4,1030.0,157,1195.0
-SW Vermont,6700,SW 100 Block,6,4,122.0,-232,-100.0
 Louisiana,LA,State Abbreviations,4,4,1037.0,44,1089.0
 Florida,FL,State Abbreviations,4,4,152.0,-276,-116.0
 Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,6,4,1016.0,-198,828.0
 California,CA,State Abbreviations,4,4,970.0,-57,921.0
 North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,4,4,61.0,-568,-499.0
-SW Stephonson,11800,SW 100 Block,4,4,72.0,-312,-232.0
 Kansas,KS,State Abbreviations,4,4,285.0,-200,93.0
 Indiana,IN,State Abbreviations,4,4,94.0,-516,-414.0
 Hawaii,HI,State Abbreviations,4,4,1008.0,-60,956.0
@@ -576,35 +570,27 @@ District of Columbia,DC,State Abbreviations,4,4,92.0,-504,-404.0
 Mt Hood Medical Center,24800 SE Stark St,Hospital Address,4,4,79.0,-309,-222.0
 Georgia,GA,State Abbreviations,4,4,158.0,-265,-99.0
 Oregon Health Science University,UH,Hospital Abbreviation,4,4,80.0,-499,-411.0
-NW Vaughn,2000,NW 100 Block,4,4,74.0,-441,-359.0
 Veteran's Hospital,VA,Hospital Abbreviation,5,5,152.0,-444,-282.0
 Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,5,5,84.0,-526,-432.0
 Central Precinct,CE,Precinct Abbreviation,5,5,88.0,-384,-286.0
 East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,5,5,998.0,-201,807.0
 Portland Adventist Hospital,PA,Hospital Abbreviation,5,5,143.0,-347,-194.0
-SW Caruthers,2400,SW 100 Block,5,5,378.0,-321,67.0
 North Precinct,NO,Precinct Abbreviation,5,5,1097.0,42,1149.0
 Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,5,5,1010.0,72,1092.0
 Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,5,5,378.0,-255,133.0
-NW Nicolai,2500,NW 100 Block,5,5,144.0,-218,-64.0
 Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,5,5,1064.0,-9,1065.0
-SW Clay,1500,SW 100 Block,5,5,92.0,-349,-247.0
 Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,5,5,993.0,-7,996.0
 Good Samaritan Hospital,GS,Hospital Abbreviation,5,5,1094.0,-82,1022.0
-SW Washington,500,SW 100 Block,5,5,158.0,-210,-42.0
 Central Precinct,1111 SW 2 Av,Precinct Address,5,5,1057.0,209,1276.0
 Gresham PD,1333 NW Eastman Pkwy,Precinct Address,5,5,1062.0,175,1247.0
 Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,5,5,1046.0,-109,947.0
 Providence Hospital,PR,Hospital Abbreviation,5,5,1099.0,452,1561.0
 Providence Hospital,4805 NE Glisan St,Hospital Address,5,5,1100.0,47,1157.0
-SW Salmon,1000,SW 100 Block,5,5,78.0,-561,-473.0
 East Precinct,737 SE 106 Av,Precinct Address,5,5,164.0,-274,-100.0
 Traffic/K9 Division,4735 E Burnside St,Precinct Address,5,5,1072.0,335,1417.0
 Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,5,5,986.0,215,1211.0
 East Precinct,EA,Precinct Abbreviation,5,5,368.0,-390,-12.0
 Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,5,5,986.0,-161,835.0
-SW Market,1600,SW 100 Block,5,5,66.0,-496,-420.0
 Vibra Specialty Hospital,VB,Hospital Abbreviation,5,5,1047.0,61,1118.0
 Emanuel Hospital,EM,Hospital Abbreviation,5,5,397.0,-356,51.0
 Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,5,5,388.0,-172,226.0
-NW Lovejoy,1000,NW 100 Block,5,5,339.0,-234,115.0
