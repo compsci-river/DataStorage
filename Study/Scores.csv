@@ -2,23 +2,23 @@ Category,Context,Term,Score,Attempts
 Example,Example,Example,0,0
 I5,Next Ramp,VICTORY/I5[RAMP TO SB I5,0,0
 100 Blocks,SE St,Division,0,0
-I5,Next Ramp,SB I5 TO/ROSA PARKS,1,1
+I5,Next Ramp,SB I5 TO/ROSA PARKS,0,0
 100 Blocks,NE St,Ainsworth,0,0
-I5,Next Ramp,SB I5 TO/MORRISON BRG,1,1
+I5,Next Ramp,SB I5 TO/MORRISON BRG,-1,1
 Protocols,EMD,Inaccessible,0,0
 Protocols,EMD,Stab/Gunshot,0,0
 I5,Previous Ramp,NB I5 TO/CORBETT,0,0
 100 Blocks,NE St,Fremont,0,0
 100 Blocks,SW St,Burnside,0,0
 I5,Next Ramp,MARINE DR/I5[RAMP TO SB I5,0,0
-Protocols,EMD,Pregnancy,1,1
+Protocols,EMD,Pregnancy,0,0
 100 Blocks,SW St,Vermont,0,0
 I5,Next Ramp,SB I5 TO/TERWILLIGER,0,0
 100 Blocks,NW Ave,Park,0,0
 I5,Previous Ramp,NB I5 TO/NB I405,0,0
-100 Blocks,N Ave,Wall,-1,1
+100 Blocks,N Ave,Wall,0,0
 Protocols,EMD,Burns,0,0
-100 Blocks,NE St,Russell,1,1
+100 Blocks,NE St,Russell,0,0
 I5,Previous Ramp,JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,0,0
 I5,Next Ramp,SB I5 TO/DENVER,0,0
 I5,Next Ramp,NB I5 TO/VICTORY,0,0
@@ -27,14 +27,14 @@ I5,Next Ramp,NB I5 TO/TAYLORS FERRY,0,0
 Protocols,EMD,Traffic Collision,0,0
 I5,Next Ramp,NB I5 TO/NB I405,0,0
 Protocols,EMD,Diabetic Problems,0,0
-I5,Next Ramp,NB I5 TO/LOMBARD WB,-1,1
+I5,Next Ramp,NB I5 TO/LOMBARD WB,0,0
 I5,Next Ramp,TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,0,0
 I5,Next Ramp,NB I5 NO/BARBUR,0,0
 I5,Next Ramp,GOING/I5[RAMP TO SB I5,0,0
 100 Blocks,N Ave,Ida,0,0
 100 Blocks,N St,Willis,0,0
 I5,Previous Ramp,NB I5 TO/LOMBARD EB,0,0
-I5,Next Ramp,MARINE DR/I5[RAMP TO NB I5,1,1
+I5,Next Ramp,MARINE DR/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,SB I5 TO/CAPITOL,0,0
 I5,Previous Ramp,NB I5 TO/JANTZEN BEACH,0,0
 I5,Previous Ramp,NB I5 TO/ MARINE DR,1,1
@@ -42,7 +42,7 @@ I5,Previous Ramp,NB I5 TO/ MARINE DR,1,1
 I5,Previous Ramp,MORRISON BRG TO/NB I5,0,0
 100 Blocks,N Ave,Buchanan,0,0
 100 Blocks,N Ave,Albina,0,0
-I5,Previous Ramp,SB I5 TO/EB I84,1,1
+I5,Previous Ramp,SB I5 TO/EB I84,0,0
 100 Blocks,NE St,Alberta,0,0
 I5,Next Ramp,NB FREMONT BRG TO/NB I5,0,0
 I5,Previous Ramp,ALBERTA/I5[RAMP TO SB I5,0,0
@@ -57,7 +57,7 @@ I5,Next Ramp,NB I5 TO/COMLUMBIA,0,0
 I5,Previous Ramp,SB I5 TO/ALBERTA,0,0
 I5,Next Ramp,ROSA PARKS/I5[RAMP TO SB I5,0,0
 Protocols,EMD,Overdose,0,0
-Protocols,EMD,Headache,-1,1
+Protocols,EMD,Headache,0,0
 100 Blocks,N Ave,Interstate,0,0
 100 Blocks,SW St,Market,0,0
 Protocols,EMD,Unconscious/Fainting,0,0
@@ -72,45 +72,45 @@ I5,Previous Ramp,SB I5 TO/PACIFIC HWY,0,0
 100 Blocks,SW St,Spring Garden,0,0
 100 Blocks,NE St,Halsey,0,0
 I5,Previous Ramp,NB I5 TO/ROSA PARKS,0,0
-I5,Next Ramp,NB I5 TO/JANTZEN BEACH,1,1
+I5,Next Ramp,NB I5 TO/JANTZEN BEACH,0,0
 Protocols,EMD,Heart Problems,0,0
 I5,Next Ramp,NB I5 TO/LOMBARD EB,0,0
-I5,Next Ramp,CAPITOL/I5[RAMP TO SB I5,1,1
+I5,Next Ramp,CAPITOL/I5[RAMP TO SB I5,0,0
 100 Blocks,NE St,Going,0,0
-100 Blocks,SE St,Burnside,1,1
+100 Blocks,SE St,Burnside,0,0
 100 Blocks,SE St,Powell,0,0
 I5,Previous Ramp,SB I5 TO/MULTNOMAH,0,0
-100 Blocks,N Ave,Catlin,-1,1
-I5,Previous Ramp,ALBERTA/I5[RAMP TO NB I5,1,1
+100 Blocks,N Ave,Catlin,0,0
+I5,Previous Ramp,ALBERTA/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,SB I5 TO/SB FREMONT BRG,0,0
-I5,Next Ramp,BARBUR/64[RAMP TO SB I5,1,1
+I5,Next Ramp,BARBUR/64[RAMP TO SB I5,0,0
 I5,Previous Ramp,SPRING GARDEN/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,GOING/I5[RAMP TO SB I5,0,0
 I5,Next Ramp,NB I5 TO/MACADAM,0,0
 I5,Previous Ramp,LOMBARD/I5[EB RAMP TO SB I5,0,0
 100 Blocks,N Ave,Weyerhaeuser,0,0
-I5,Previous Ramp,SB I5 TO/MORRISON BRG,-1,1
+I5,Previous Ramp,SB I5 TO/MORRISON BRG,0,0
 I5,Next Ramp,NB FREMONT BRG TO/SB I5,0,0
 I5,Previous Ramp,SB I5 TO/BARBUR,0,0
 Protocols,EMD,Back Pain,0,0
 I5,Previous Ramp,SB I5 TO/TERWILLIGER,0,0
-100 Blocks,NE St,San Rafael,1,1
-I5,Next Ramp,HOOD/GAINES[RAMP TO SB I5,1,1
+100 Blocks,NE St,San Rafael,0,0
+I5,Next Ramp,HOOD/GAINES[RAMP TO SB I5,0,0
 Protocols,EMD,Electrocution,0,0
-Protocols,EMD,Abdominal Pain,1,1
+Protocols,EMD,Abdominal Pain,0,0
 I5,Next Ramp,NB I5 TO/WEIDLER,0,0
 I5,Next Ramp,MORRISON BRG TO/NB I5,0,0
 Protocols,EMD,Drowning,0,0
 I5,Previous Ramp,HOOD/GAINES[RAMP TO SB I5,0,0
 100 Blocks,NW Ave,Broadway,0,0
-100 Blocks,SE St,Tacoma,-1,1
+100 Blocks,SE St,Tacoma,0,0
 I5,Next Ramp,WB I84 TO/SB I5,0,0
-100 Blocks,SE St,Belmont,1,1
+100 Blocks,SE St,Belmont,0,0
 100 Blocks,SW St,Hamilton,0,0
 Protocols,EMD,Trauma,0,0
-I5,Next Ramp,ALBERTA/I5[RAMP TO SB I5,1,1
+I5,Next Ramp,ALBERTA/I5[RAMP TO SB I5,0,0
 I5,Next Ramp,SB I5 TO/ALBERTA,0,0
-100 Blocks,NW St,Glisan,1,1
+100 Blocks,NW St,Glisan,0,0
 I5,Next Ramp,SPRING GARDEN/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,NB I5 TO/GREELEY,0,0
 Protocols,EMD,Stroke,0,0
@@ -128,31 +128,31 @@ I5,Previous Ramp,SB I405 TO/NB I5,0,0
 Protocols,EMD,Assault,0,0
 100 Blocks,N Ave,Mohawk,0,0
 I5,Previous Ramp,NB I5 TO/WEIDLER,0,0
-I5,Next Ramp,NB I5 TO/GOING,1,1
-I5,Next Ramp,RIVER/HARBOR[RAMP TO SB I5,1,1
+I5,Next Ramp,NB I5 TO/GOING,0,0
+I5,Next Ramp,RIVER/HARBOR[RAMP TO SB I5,0,0
 I5,Previous Ramp,NB FREMONT BRG TO/NB I5,0,0
 I5,Next Ramp,SB I5 TO/MARINE DR,0,0
 I5,Previous Ramp,SB I5 TO/NB I405,0,0
 100 Blocks,NW St,Burnside,0,0
-I5,Next Ramp,SB I5 TO/MACADAM,1,1
+I5,Next Ramp,SB I5 TO/MACADAM,0,0
 I5,Next Ramp,DENVER/SCHMEER[RAMP TO NB I5,0,0
-100 Blocks,N Ave,Woolsey,0,0
+100 Blocks,N Ave,Woolsey,-1,1
 I5,Previous Ramp,NB I5 TO/GOING,0,0
 I5,Next Ramp,NB I5 TO/TERWILLIGER,0,0
-I5,Previous Ramp,NB FREMONT BRG TO/SB I5,1,1
-I5,Next Ramp,NB I5 TO/CORBETT,1,1
+I5,Previous Ramp,NB FREMONT BRG TO/SB I5,0,0
+I5,Next Ramp,NB I5 TO/CORBETT,0,0
 I5,Previous Ramp,NB I5 TO/TERWILLIGER,0,0
 I5,Previous Ramp,WEIDLER/WHEELER[RAMP TO SB I5,0,0
 I5,Next Ramp,CAPITOL/HUBER[RAMP TO NB I5,0,0
 I5,Previous Ramp,NB I5 TO/SB FREMONT BRG,0,0
-I5,Next Ramp,SB I405 TO/SB I5,1,1
+I5,Next Ramp,SB I405 TO/SB I5,0,0
 I5,Previous Ramp,SB I5 TO/MACADAM,0,0
 Protocols,EMD,Person Down Unknown,0,0
 I5,Previous Ramp,SB I5 TO/BROADWAY,0,0
 I5,Next Ramp,WEIDLER/WHEELER[RAMP TO SB I5,0,0
 I5,Previous Ramp,COLUMBIA/I5[RAMP TO SB I5,0,0
 I5,Previous Ramp,NB I5 TO/EB I84,0,0
-I5,Next Ramp,WB I84 TO/NB I5,0,0
+I5,Next Ramp,WB I84 TO/NB I5,1,1
 100 Blocks,SE St,Stark,0,0
 100 Blocks,SE St,Flavel,0,0
 100 Blocks,SE St,Woodstock,0,0
@@ -163,25 +163,25 @@ I5,Previous Ramp,SB I405 TO/SB I5,0,0
 I5,Previous Ramp,GREELEY/I5[RAMP TO SB I5,0,0
 I5,Previous Ramp,MACADAM/GAINES[RAMP TO NB I5,0,0
 I5,Previous Ramp,ROSA PARKS/I5[RAMP TO NB I5,0,0
-I5,Next Ramp,LOMBARD/I5[EB RAMP TO SB I5,1,1
+I5,Next Ramp,LOMBARD/I5[EB RAMP TO SB I5,0,0
 I5,Previous Ramp,NB I5 TO/MACADAM,0,0
 I5,Previous Ramp,CAPITOL/HUBER[RAMP TO NB I5,0,0
 I5,Previous Ramp,WB I84 TO/SB I5,0,0
-Protocols,EMD,Eye Problems,1,1
+Protocols,EMD,Eye Problems,0,0
 100 Blocks,SW St,Clay,0,0
-I5,Next Ramp,GREELEY/I5[RAMP TO SB I5,1,1
+I5,Next Ramp,GREELEY/I5[RAMP TO SB I5,0,0
 I5,Next Ramp,GOING/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,ROSA PARKS/I5[RAMP TO SB I5,0,0
 100 Blocks,NE St,Prescott,0,0
 100 Blocks,NE St,Rosa Parks,0,0
-I5,Previous Ramp,WB I84 TO/NB I5,1,1
+I5,Previous Ramp,WB I84 TO/NB I5,0,0
 100 Blocks,NE St,Broadway,0,0
-100 Blocks,NE St,Shaver,-1,1
+100 Blocks,NE St,Shaver,0,0
 I5,Next Ramp,COLUMBIA/I5[RAMP TO SB I5,0,0
 I5,Next Ramp,SB I5 TO/NB I405,0,0
 100 Blocks,N Ave,Mississippi,0,0
 100 Blocks,SE St,Harold,0,0
-Protocols,EMD,Carbon Monoxide,0,0
+Protocols,EMD,Carbon Monoxide,-1,1
 I5,Previous Ramp,BROADWAY/I5[RAMP TO NB I5,0,0
 I5,Previous Ramp,CAPITOL/I5[RAMP TO SB I5,0,0
 I5,Previous Ramp,NB I5 TO/TAYLORS FERRY,0,0
@@ -192,27 +192,27 @@ I5,Next Ramp,MULTNOMAH/22[RAMP TO NB I5,0,0
 Protocols,EMD,Arrest/Death,0,0
 I5,Previous Ramp,TERWILLIGER/I5[RAMP TO NB I5,0,0
 100 Blocks,NE St,Glisan,0,0
-I5,Next Ramp,BARBUR/64[RAMP TO NB I5,1,1
-I5,Next Ramp,NB I5 TO/ROSA PARKS,1,1
+I5,Next Ramp,BARBUR/64[RAMP TO NB I5,0,0
+I5,Next Ramp,NB I5 TO/ROSA PARKS,0,0
 I5,Previous Ramp,LOMBARD/I5[WB RAMP TO SB I5,0,0
-100 Blocks,NW St,Vaughn,1,1
-Protocols,EMD,Chest Pain,1,1
+100 Blocks,NW St,Vaughn,0,0
+Protocols,EMD,Chest Pain,0,0
 100 Blocks,NE St,Killingsworth,0,0
 100 Blocks,N Ave,Portsmouth,0,0
 I5,Previous Ramp,VICTORY/I5[RAMP TO SB I5,0,0
-Protocols,EMD,Choking,-1,1
+Protocols,EMD,Choking,0,0
 I5,Next Ramp,SB I405 TO/NB I5,0,0
 100 Blocks,SE St,Clatsop,0,0
 100 Blocks,NW St,Nicolai,0,0
-I5,Previous Ramp,SB I5 TO/MARINE DR,0,0
-I5,Next Ramp,LOMBARD/I5[WB RAMP TO SB I5,1,1
+I5,Previous Ramp,SB I5 TO/MARINE DR,-1,1
+I5,Next Ramp,LOMBARD/I5[WB RAMP TO SB I5,0,0
 100 Blocks,SW St,Washington,0,0
 I5,Previous Ramp,NB I5 TO/LOMBARD WB,0,0
 I5,Next Ramp,TERWILLIGER/I5[RAMP TO NB I5,0,0
 100 Blocks,N Ave,Peninsular,0,0
 I5,Next Ramp,MACADAM/GAINES[RAMP TO NB I5,0,0
 I5,Previous Ramp,MARINE DR/I5[RAMP TO SB I5,0,0
-I5,Previous Ramp,SB I5 TO/DENVER,1,1
+I5,Previous Ramp,SB I5 TO/DENVER,0,0
 Protocols,EMD,Mental Health,0,0
 Protocols,EMD,Hemorrhage,0,0
 I5,Previous Ramp,MULTNOMAH/22[RAMP TO NB I5,0,0
@@ -222,26 +222,30 @@ I5,Next Ramp,ROSA PARKS/I5[RAMP TO NB I5,0,0
 Protocols,EMD,Seizures,0,0
 Protocols,EMD,Allergies,0,0
 100 Blocks,N Ave,Greeley,0,0
-100 Blocks,N St,Lombard,1,1
-I5,Next Ramp,NB I5 TO/SB FREMONT BRG,1,1
-100 Blocks,SW Ave,Broadway,1,1
+100 Blocks,N St,Lombard,0,0
+I5,Next Ramp,NB I5 TO/SB FREMONT BRG,0,0
+100 Blocks,SW Ave,Broadway,0,0
 I5,Next Ramp,SB I5 TO/SB FREMONT BRG,0,0
 I5,Next Ramp,ALBERTA/I5[RAMP TO NB I5,0,0
-I5,Previous Ramp,SB I5 TO/ROSA PARKS,1,1
+I5,Previous Ramp,SB I5 TO/ROSA PARKS,0,0
 I5,Next Ramp,SB I5 TO/EB I84,0,0
 Protocols,EMD,Sick,0,0
 Protocols,EMD,Heat/Cold,0,0
 I5,Next Ramp,NB I5 TO/GREELEY,0,0
 100 Blocks,NE St,Weidler,0,0
 I5,Next Ramp,NB I5 TO/EB I84,0,0
-I5,Previous Ramp,BARBUR/64[RAMP TO SB I5,1,1
+I5,Previous Ramp,BARBUR/64[RAMP TO SB I5,0,0
 Protocols,EMD,Falls,0,0
-100 Blocks,N St,Fessenden,1,1
+100 Blocks,N St,Fessenden,0,0
 I5,Next Ramp,SB I5 TO/JANTZEN BEACH,0,0
 100 Blocks,NE Ave,Grand,0,0
 I5,Previous Ramp,GOING/I5[RAMP TO NB I5,0,0
-I5,Previous Ramp,RIVER/HARBOR[RAMP TO SB I5,1,1
+I5,Previous Ramp,RIVER/HARBOR[RAMP TO SB I5,0,0
 100 Blocks,SE St,Duke,0,0
 I5,Previous Ramp,SB I5 TO/HAINES,0,0
 100 Blocks,N Ave,Commercial,0,0
 100 Blocks,NE St,Lombard,0,0
+I5,Previous Ramp,NB I5 TO/MARINE DR,0,0
+Protocols,EMD,Animal Attack,0,0
+I5,Next Ramp,NB I5 TO/COLUMBIA,0,0
+I5,Previous Ramp,NB I5 TO/COLUMBIA,0,0
