@@ -1,610 +1,610 @@
 Term,Definition,Context,Count,Score,Hot Score,Fade,Sum
-Red,RED,Color Abbreviations,2,2,665.0,189,858.0
-R,Rodger,Phonetic Alphabet,2,2,450.0,-27,427.0
-Louisiana,LA,State Abbreviations,3,3,218.0,-46,178.0
-SW Multnomah Blvd,8000,SW 100 Block,4,4,454.0,-148,314.0
-Community Garden,CG,Common Abbreviations,2,2,578.0,70,652.0
-THEFTC,6,Type Code Priority,1,1,409.0,65,476.0
-ASSLT,7,Type Code Priority,2,0,142.0,129,273.0
-Unity Center for Behavioral Health,UB,Hospital Abbreviation,5,3,726.0,-33,701.0
-Nevada,NV,State Abbreviations,4,2,591.0,-6,591.0
-New Hampshire,NH,State Abbreviations,2,2,274.0,-26,252.0
-Saturn,STRN,Vehicle Abbreviations,1,1,150.0,-101,51.0
-Traffic/K9 Division,4735 E Burnside St,Precinct Address,4,4,261.0,-62,207.0
-Cream,CRM,Color Abbreviations,2,2,652.0,-7,649.0
-Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,4,4,235.0,-64,179.0
-Drunk,DK,Common Abbreviations,2,2,600.0,197,801.0
-Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,4,4,241.0,-195,54.0
-Infinity,INFI,Vehicle Abbreviations,2,2,662.0,218,884.0
-Boyfriend,BOYF,Common Abbreviations,1,1,143.0,-106,39.0
-Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,2,2,437.0,-89,352.0
-Mercury,MERC,Vehicle Abbreviations,2,2,582.0,136,722.0
-Colorado,CO,State Abbreviations,4,4,463.0,-138,333.0
-Mississippi,MS,State Abbreviations,2,2,260.0,-116,148.0
-Kansas,KS,State Abbreviations,4,4,665.0,180,853.0
-Brown,BRN,Color Abbreviations,2,2,658.0,66,728.0
-Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,7,3,352.0,77,439.0
-V,Victor,Phonetic Alphabet,3,3,805.0,213,1024.0
-Virginia,VA,State Abbreviations,2,2,291.0,-6,289.0
-W,William,Phonetic Alphabet,3,3,785.0,85,876.0
-Business,BUSN,Common Abbreviations,2,2,623.0,134,761.0
-FRAUD,7,Type Code Priority,2,0,145.0,63,210.0
-New York,NY,State Abbreviations,2,2,303.0,-31,276.0
-Gresham PD,1333 NW Eastman Pkwy,Precinct Address,4,4,294.0,-149,153.0
-THEFTP,4,Type Code Priority,1,1,416.0,22,440.0
-Arizona,AZ,State Abbreviations,5,3,733.0,84,825.0
-Beige,BGE,Color Abbreviations,2,2,541.0,119,664.0
-Oklahoma,OK,State Abbreviations,2,2,279.0,-77,206.0
-K,King,Phonetic Alphabet,2,2,451.0,-11,444.0
-G,George,Phonetic Alphabet,2,2,300.0,30,334.0
-Indiana,IN,State Abbreviations,4,4,474.0,-136,346.0
-ROB,7,Type Code Priority,2,0,156.0,-48,110.0
-North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,4,4,441.0,-188,261.0
-Tennesse,TN,State Abbreviations,2,2,254.0,-139,119.0
-Delaware,DE,State Abbreviations,4,2,96.0,24,126.0
-Peugeot,PEUG,Vehicle Abbreviations,2,2,643.0,24,671.0
-SW Caruthers,2400,SW 100 Block,5,5,758.0,59,827.0
-Toyota,TOYT,Vehicle Abbreviations,2,2,473.0,-93,384.0
-Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,5,3,328.0,108,444.0
-Currently,CURR,Common Abbreviations,2,2,571.0,-61,514.0
-F,Frank,Phonetic Alphabet,2,2,252.0,-20,236.0
-Disturbance,DIST,Common Abbreviations,2,2,489.0,-100,393.0
-East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,4,4,241.0,-170,79.0
-Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,4,4,446.0,-86,368.0
-B,Baker,Phonetic Alphabet,2,2,278.0,-43,239.0
-Anonymous,ANON,Common Abbreviations,1,1,152.0,-111,43.0
-Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,5,3,221.0,-95,134.0
-Maine,ME,State Abbreviations,3,3,223.0,-68,161.0
-SEXP,4,Type Code Priority,1,1,420.0,42,464.0
-Maryland,MD,State Abbreviations,4,4,743.0,33,784.0
-Yamaha,YAMA,Vehicle Abbreviations,2,2,570.0,147,721.0
-Central Precinct,1111 SW 2 Av,Precinct Address,4,4,234.0,-38,204.0
-Columbia Slough Trail,CST,Common Abbreviations,2,2,493.0,-60,437.0
-Black Male,BM,Common Abbreviations,2,2,623.0,111,738.0
-Apartment,APT,Common Abbreviations,2,2,617.0,125,746.0
-Portland Adventist Hospital,PA,Hospital Abbreviation,5,5,523.0,33,566.0
-Arkansas,AR,State Abbreviations,4,2,230.0,-133,103.0
-VEHST,7,Type Code Priority,1,1,430.0,-84,348.0
-Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,5,5,758.0,125,893.0
-Pontiac,PONT,Vehicle Abbreviations,1,1,182.0,-100,84.0
-O,Ocean,Phonetic Alphabet,2,2,453.0,-49,408.0
-Bomb Threat,33B,Sensitive Incident Codes,2,2,278.0,-15,267.0
-Florida,FL,State Abbreviations,4,4,532.0,104,644.0
-Hawaii,HI,State Abbreviations,3,3,222.0,-111,117.0
-Chrysler,CHRY,Vehicle Abbreviations,2,2,595.0,205,804.0
-Minnesota,MN,State Abbreviations,2,2,437.0,-161,280.0
-DOM,6,Type Code Priority,1,1,398.0,-140,260.0
-Black Female,BF,Common Abbreviations,2,2,597.0,166,767.0
-North Precinct,449 NE Emerson St,Precinct Address,4,4,540.0,-70,478.0
-S,Sam,Phonetic Alphabet,3,3,763.0,-4,765.0
-HARASS,7,Type Code Priority,1,1,397.0,17,416.0
-Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,4,4,454.0,66,528.0
-Providence Hospital,PR,Hospital Abbreviation,4,4,295.0,-77,226.0
-Alabama,AL,State Abbreviations,4,4,456.0,48,512.0
-Bike Path,BP,Common Abbreviations,1,1,149.0,-112,39.0
-Direction,DIR,Common Abbreviations,2,2,698.0,162,864.0
-Building,BLDG,Common Abbreviations,2,2,568.0,-77,495.0
-NW Nicolai,2500,NW 100 Block,5,5,524.0,162,696.0
-South Carolina,SC,State Abbreviations,2,2,276.0,-88,192.0
-Georgia,GA,State Abbreviations,4,4,538.0,115,661.0
-Mt Hood Medical Center,MH,Hospital Abbreviation,6,2,66.0,93,167.0
-JUVP,4,Type Code Priority,1,1,425.0,27,454.0
-Triumph,TRIU,Vehicle Abbreviations,2,2,693.0,136,833.0
-ALRMB,6,Type Code Priority,1,1,411.0,19,432.0
-Dark,DRK,Color Abbreviations,2,2,571.0,24,599.0
-Oregon,OR,State Abbreviations,2,2,286.0,1,291.0
-Daihatsu,DAIH,Vehicle Abbreviations,2,2,576.0,170,750.0
-E,Edward,Phonetic Alphabet,2,2,282.0,-150,136.0
-SEX,7,Type Code Priority,2,0,131.0,36,169.0
-Wisconsin,WI,State Abbreviations,2,2,263.0,-9,258.0
-Central Precinct,CE,Precinct Abbreviation,5,5,468.0,-4,474.0
-Asian Male,AM,Common Abbreviations,2,2,601.0,182,787.0
-Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,5,5,464.0,-146,328.0
-I,Ida,Phonetic Alphabet,2,2,274.0,-43,235.0
-SW Vermont,6700,SW 100 Block,6,4,502.0,148,660.0
-Mt Hood Medical Center,24800 SE Stark St,Hospital Address,4,4,459.0,71,538.0
-P,Paul,Phonetic Alphabet,2,2,439.0,-176,267.0
-Polestar,PLSR,Vehicle Abbreviations,2,2,670.0,224,898.0
-Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,6,4,599.0,-21,588.0
-ABUSE,6,Type Code Priority,1,1,402.0,71,475.0
-Washington,WA,State Abbreviations,2,2,243.0,-119,128.0
-Green,GRN,Color Abbreviations,1,1,178.0,-107,73.0
-Portland Adventist Hospital,10123 SE Market St,Hospital Address,4,4,456.0,-155,309.0
-Complainant,COMP,Common Abbreviations,2,2,642.0,-11,635.0
-Subaru,SUBA,Vehicle Abbreviations,2,2,694.0,74,772.0
-Do Not Broadcast,DNB,Common Abbreviations,2,2,592.0,169,765.0
-CIVIL,7,Type Code Priority,1,1,423.0,-15,410.0
-DIST,6,Type Code Priority,2,0,149.0,-11,140.0
-NW Vaughn,2000,NW 100 Block,4,4,454.0,-61,401.0
-Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,4,4,444.0,-137,315.0
-Ohio,OH,State Abbreviations,2,2,277.0,-146,135.0
-Do Not Give Out,DNGO,Common Abbreviations,2,2,656.0,188,848.0
-Breathing,BR,Common Abbreviations,2,2,477.0,73,554.0
-Missouri,MO,State Abbreviations,2,2,448.0,-22,430.0
-Suzuki,SUZI,Vehicle Abbreviations,1,1,153.0,-115,40.0
-Cooperative,COOP,Common Abbreviations,2,2,469.0,-113,360.0
-Gold,GLD,Color Abbreviations,2,2,701.0,13,718.0
-UNWNT,4,Type Code Priority,1,1,399.0,-67,334.0
-N,Nora,Phonetic Alphabet,3,3,765.0,162,933.0
-Chemical/Biological Weapon,33C,Sensitive Incident Codes,2,2,435.0,-21,418.0
-Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,4,4,228.0,-195,41.0
-Utah,UT,State Abbreviations,2,2,253.0,-23,234.0
-Vermont,VT,State Abbreviations,2,2,238.0,-42,200.0
-Oregon Health Science University,UH,Hospital Abbreviation,4,4,460.0,-119,349.0
-Conscious,CONS,Common Abbreviations,2,2,664.0,-17,651.0
-Hyundai,HYUN,Vehicle Abbreviations,2,2,716.0,75,795.0
-Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,4,4,238.0,-175,71.0
-H,Henry,Phonetic Alphabet,2,2,289.0,-187,106.0
-Idaho,ID,State Abbreviations,3,3,225.0,-146,85.0
-JUV,6,Type Code Priority,2,0,154.0,95,251.0
-SW Clay,1500,SW 100 Block,5,5,472.0,31,513.0
-SW Spring Garden,8500,SW 100 Block,5,3,250.0,-167,91.0
-Kawasaki,KAW,Vehicle Abbreviations,2,2,658.0,193,855.0
-Company/County,CO,Common Abbreviations,2,2,575.0,-15,564.0
-Wyoming,WY,State Abbreviations,2,2,234.0,-200,38.0
-Lincoln,LINC,Vehicle Abbreviations,2,2,497.0,-71,430.0
-East Precinct,EA,Precinct Abbreviation,5,5,748.0,-10,748.0
-Y,Yellow,Phonetic Alphabet,2,2,440.0,-28,416.0
-SW Salmon,1000,SW 100 Block,5,5,458.0,-181,287.0
-SW Hamilton,4500,SW 100 Block,5,3,452.0,-154,306.0
-Bombing Event,33A,Sensitive Incident Codes,2,2,273.0,-190,87.0
-North Precinct,NO,Precinct Abbreviation,4,4,276.0,-42,242.0
-Domestic Violence,DV,Common Abbreviations,3,1,305.0,-164,145.0
-Callback,CB,Common Abbreviations,2,2,599.0,119,722.0
-T,Tom,Phonetic Alphabet,2,2,267.0,-97,174.0
-SW Washington,500,SW 100 Block,5,5,538.0,170,718.0
-Death Homicide,55A,Sensitive Incident Codes,3,3,765.0,95,866.0
-Check,CK,Common Abbreviations,2,2,492.0,-4,492.0
-Black,BLK,Color Abbreviations,2,2,671.0,55,730.0
-Yellow,YEL,Color Abbreviations,2,2,618.0,-47,575.0
-NW Glisan,500,NW 100 Block,4,4,227.0,-51,184.0
-New Mexico,NM,State Abbreviations,2,2,250.0,-217,37.0
-Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,5,5,768.0,208,986.0
-South Dakota,SD,State Abbreviations,2,2,287.0,-137,154.0
-Oldsmobile,OLDS,Vehicle Abbreviations,2,2,624.0,110,738.0
-X,X-ray,Phonetic Alphabet,2,2,240.0,-160,84.0
-Customer/Custody,CUST,Common Abbreviations,2,2,649.0,156,809.0
-Maroon,MAR,Color Abbreviations,2,2,715.0,76,795.0
-Illinois,IL,State Abbreviations,4,4,746.0,124,878.0
-All 50,Z1,State Abbreviations,2,2,271.0,-100,175.0
-Different/Difficult,DIFF,Common Abbreviations,1,1,156.0,-111,47.0
-Porsche,PORS,Vehicle Abbreviations,3,1,475.0,16,495.0
-Date of Birth,DOB,Common Abbreviations,2,2,583.0,-8,579.0
-Daewoo,DAEW,Vehicle Abbreviations,1,1,162.0,-110,54.0
-Cadillac,CADI,Vehicle Abbreviations,2,2,678.0,207,889.0
-ANIML,4,Type Code Priority,4,0,492.0,145,641.0
-North Carolina,NC,State Abbreviations,2,2,273.0,-28,249.0
-Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,5,3,480.0,23,511.0
-A,Adam,Phonetic Alphabet,2,2,300.0,-80,224.0
-Community Center,CC,Common Abbreviations,1,1,146.0,-112,36.0
-West Virginia,WV,State Abbreviations,2,2,251.0,-46,209.0
-Silent Holdup Alarm,27A,Sensitive Incident Codes,2,2,289.0,-101,192.0
-TRASH,7,Type Code Priority,1,1,396.0,-94,304.0
-Other Sexual Assault,39B,Sensitive Incident Codes,2,2,274.0,-58,220.0
-VEHREC,7,Type Code Priority,1,1,408.0,56,466.0
-ROVIO,7,Type Code Priority,1,1,405.0,-88,319.0
-Contact/Continue,CONT,Common Abbreviations,2,2,478.0,-99,383.0
-Asian Female,AF,Common Abbreviations,2,2,566.0,-57,513.0
-Blue Jeans,BJS,Common Abbreviations,2,2,552.0,52,608.0
-Mercedes Benz,MERZ,Vehicle Abbreviations,2,2,635.0,145,784.0
-Jaguar,JAG,Vehicle Abbreviations,2,2,648.0,199,851.0
-Good Samaritan Hospital,GS,Hospital Abbreviation,4,4,298.0,-92,214.0
-Daughter,DOTR,Common Abbreviations,2,2,650.0,115,769.0
-Iowa,IA,State Abbreviations,4,4,723.0,112,843.0
-Dodge,DODG,Vehicle Abbreviations,2,2,570.0,-27,547.0
-VICE,4,Type Code Priority,1,1,401.0,89,492.0
-NW Lovejoy,1000,NW 100 Block,5,5,719.0,146,875.0
-VAND,7,Type Code Priority,1,1,407.0,-64,345.0
-Silent Triggered Alarm,27B,Sensitive Incident Codes,2,2,281.0,-208,77.0
-Montana,MT,State Abbreviations,2,2,239.0,-102,141.0
-Emanuel Hospital,EM,Hospital Abbreviation,5,5,777.0,24,811.0
-Mitsubishi,MITS,Vehicle Abbreviations,2,2,586.0,-26,564.0
-Burgundy,BURG,Color Abbreviations,2,2,580.0,-49,535.0
-North Dakota,ND,State Abbreviations,2,2,297.0,-76,225.0
-Vibra Specialty Hospital,VB,Hospital Abbreviation,4,4,298.0,-188,118.0
-SW Stephonson,11800,SW 100 Block,4,4,452.0,68,528.0
-L,Lincoln,Phonetic Alphabet,3,3,808.0,60,874.0
-Michigan,MI,State Abbreviations,2,2,256.0,-67,193.0
-Nebraska,NE,State Abbreviations,2,2,292.0,-147,149.0
-7 Western,H1,State Abbreviations,2,2,247.0,-184,67.0
-Assault,ASSLT,Common Abbreviations,2,2,583.0,-82,505.0
-U,Union,Phonetic Alphabet,2,2,441.0,-105,340.0
-District of Columbia,DC,State Abbreviations,4,4,472.0,-124,356.0
-DUII,4,Type Code Priority,1,1,431.0,-14,419.0
-Volkswagen,VW,Vehicle Abbreviations,2,2,705.0,151,860.0
-American Motors,AMC,Vehicle Abbreviations,2,2,670.0,103,777.0
-Rape,39A,Sensitive Incident Codes,2,2,259.0,-55,208.0
-Behind,BEH,Common Abbreviations,2,2,469.0,-115,358.0
-Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,5,3,550.0,-12,546.0
-Baseball Cap,BBCAP,Common Abbreviations,2,2,634.0,230,868.0
-Veteran's Hospital,VA,Hospital Abbreviation,5,5,532.0,-64,478.0
-Chevrolet,CHEV,Vehicle Abbreviations,2,2,468.0,-136,336.0
-Grey,GRY,Color Abbreviations,2,2,605.0,158,767.0
-Eagle,EGIL,Vehicle Abbreviations,2,2,678.0,111,793.0
-Light,LT,Color Abbreviations,2,2,621.0,-67,558.0
-Death Unknown/Natural,55K,Sensitive Incident Codes,2,2,237.0,-71,170.0
-Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,4,4,259.0,-75,192.0
-D,David,Phonetic Alphabet,2,2,279.0,-54,229.0
-M,Mary,Phonetic Alphabet,2,2,239.0,-134,109.0
-New Jersey,NJ,State Abbreviations,2,2,279.0,-102,181.0
-Burglary,BURG,Common Abbreviations,2,2,476.0,-23,457.0
-Plymouth,PLYM,Vehicle Abbreviations,1,1,185.0,-89,98.0
-Connecticut,CT,State Abbreviations,4,4,718.0,6,732.0
-Datsun,DATS,Vehicle Abbreviations,2,2,641.0,132,777.0
-Corner,CRNR,Common Abbreviations,2,2,543.0,-40,507.0
-Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,4,4,245.0,-155,98.0
-Blue,BLU,Color Abbreviations,2,2,492.0,-40,456.0
-Kentucky,KY,State Abbreviations,4,4,566.0,77,651.0
-Purple,PURP,Color Abbreviations,2,2,649.0,128,781.0
-Providence Hospital,4805 NE Glisan St,Hospital Address,4,4,281.0,-46,243.0
-Appointment,APPT,Common Abbreviations,2,2,671.0,86,761.0
-Tesla,TESL,Vehicle Abbreviations,2,2,548.0,78,630.0
-Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,4,4,258.0,-17,249.0
-Volvo,VOLV,Vehicle Abbreviations,2,2,677.0,140,821.0
-Pennsylvania,PA,State Abbreviations,2,2,261.0,-158,107.0
-J,John,Phonetic Alphabet,2,2,245.0,-165,84.0
-Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,4,4,218.0,-149,77.0
-PROP,7,Type Code Priority,1,1,424.0,53,479.0
-ALRMA,6,Type Code Priority,3,1,683.0,137,824.0
-Rhode Island,RI,State Abbreviations,2,2,281.0,-209,76.0
-Orange,ORG,Color Abbreviations,2,2,493.0,-91,406.0
-C,Charlie,Phonetic Alphabet,2,2,281.0,-62,223.0
-Buick,BUIC,Vehicle Abbreviations,3,1,500.0,187,691.0
-Texas,TX,State Abbreviations,2,2,449.0,-110,343.0
-Between,BTWN,Common Abbreviations,1,1,168.0,-129,41.0
-BURG,7,Type Code Priority,1,1,406.0,115,523.0
-SW Market,1600,SW 100 Block,5,5,446.0,-116,340.0
-Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,5,3,194.0,-72,130.0
-California,CA,State Abbreviations,3,3,226.0,-196,36.0
-Alaska,AK,State Abbreviations,4,4,656.0,57,721.0
-THEFT,7,Type Code Priority,1,1,400.0,113,515.0
-East Precinct,737 SE 106 Av,Precinct Address,5,5,544.0,106,660.0
-Z,Zebra,Phonetic Alphabet,2,2,305.0,4,313.0
-RAPE,4,Type Code Priority,1,1,419.0,96,517.0
-Medium,MED,Color Abbreviations,2,2,598.0,164,766.0
-Attempt to Locate,ATL,Common Abbreviations,2,2,645.0,197,846.0
-Nissan,NISS,Vehicle Abbreviations,3,1,404.0,80,488.0
-Q,Queen,Phonetic Alphabet,2,2,260.0,-27,237.0
-Silver,SILV,Color Abbreviations,3,1,517.0,157,678.0
-Massachusetts,MA,State Abbreviations,2,2,295.0,-1,298.0
-Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,4,4,466.0,-87,387.0
-White,WHI,Color Abbreviations,2,2,635.0,82,721.0
-TRASHP,4,Type Code Priority,1,1,410.0,-73,339.0
-Turquoise,TRQ,Color Abbreviations,2,2,468.0,-48,424.0
-Also Known As,AKA,Common Abbreviations,2,2,494.0,-18,480.0
-VANDP,3,Type Code Priority,0,0,0.0,0,0.0
-PROWLP,3,Type Code Priority,0,0,0.0,0,0.0
-VEHSTP,3,Type Code Priority,0,0,0.0,0,0.0
-FRAUDP,3,Type Code Priority,0,0,0.0,0,0.0
-BURGP,3,Type Code Priority,0,0,0.0,0,0.0
-PREMCK,3,Type Code Priority,0,0,0.0,0,0.0
-ALRMBP,3,Type Code Priority,0,0,0.0,0,0.0
-HARASP,3,Type Code Priority,0,0,0.0,0,0.0
-ALRMS,2,Type Code Priority,0,0,0.0,0,0.0
-ROBP,2,Type Code Priority,0,0,0.0,0,0.0
-ASSLTP,2,Type Code Priority,0,0,0.0,0,0.0
-ABUSEP,2,Type Code Priority,0,0,0.0,0,0.0
-DISTP,2,Type Code Priority,0,0,0.0,0,0.0
-DOMP,2,Type Code Priority,0,0,0.0,0,0.0
-KIDNAP,2,Type Code Priority,0,0,0.0,0,0.0
-RAPEP,2,Type Code Priority,0,0,0.0,0,0.0
-ROVIOP,2,Type Code Priority,0,0,0.0,0,0.0
-THRETP,2,Type Code Priority,0,0,0.0,0,0.0
-ANIMLP,2,Type Code Priority,0,0,0.0,0,0.0
-ROBW,1,Type Code Priority,0,0,0.0,0,0.0
-SB I5 TO/NB I405,SB I5 TO/MACADAM,I5 Next Ramp,0,0,0,0,0
-WB I84 TO/NB I5,NB I5 TO/WEIDLER,I5 Next Ramp,0,0,0,0,0
-BARBUR/64[RAMP TO NB I5,CAPITOL/HUBER[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/EB I84,SB I5 TO/MORRISON BRG,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/TERWILLIGER,MULTNOMAH/22[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/CAPITOL,CAPITOL/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-SB I405 TO/SB I5,HOOD/GAINES[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/MACADAM,RIVER/HARBOR[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/MORRISON BRG,WB I84 TO/SB I5,I5 Next Ramp,0,0,0,0,0
-MORRISON BRG TO/NB I5,WB I84 TO/NB I5,I5 Next Ramp,0,0,0,0,0
-RIVER/HARBOR[RAMP TO SB I5,SB I405 TO/SB I5,I5 Next Ramp,0,0,0,0,0
-MACADAM/GAINES[RAMP TO NB I5,SB I405 TO/NB I5,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/CORBETT,NB I5 TO/MACADAM,I5 Next Ramp,0,0,0,0,0
-MULTNOMAH/22[RAMP TO NB I5,TERWILLIGER/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/TERWILLIGER,SB I5 TO/MULTNOMAH,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/NB I405,MACADAM/GAINES[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SPRING GARDEN/I5[RAMP TO NB I5,NB I5 TO/TERWILLIGER,I5 Next Ramp,0,0,0,0,0
-TERWILLIGER/I5[RAMP TO NB I5,NB I5 TO/CORBETT,I5 Next Ramp,0,0,0,0,0
-CAPITOL/HUBER[RAMP TO NB I5,NB I5 TO/TAYLORS FERRY,I5 Next Ramp,0,0,0,0,0
-HOOD/GAINES[RAMP TO SB I5,SB I5 TO/TERWILLIGER,I5 Next Ramp,0,0,0,0,0
-SB I405 TO/NB I5,NB I5 TO/EB I84,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/EB I84,MORRISON BRG TO/NB I5,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/MACADAM,NB I5 TO/NB I405,I5 Next Ramp,0,0,0,0,0
-NB I5 NO/BARBUR,BARBUR/64[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/PACIFIC HWY,BARBUR/64[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/TAYLORS FERRY,SPRING GARDEN/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/MULTNOMAH,SB I5 TO/BARBUR,I5 Next Ramp,0,0,0,0,0
-WB I84 TO/SB I5,SB I5 TO/NB I405,I5 Next Ramp,0,0,0,0,0
-CAPITOL/I5[RAMP TO SB I5,SB I5 TO/PACIFIC HWY,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/BARBUR,SB I5 TO/CAPITOL,I5 Next Ramp,0,0,0,0,0
-BARBUR/64[RAMP TO SB I5,SB I5 TO/HAINES,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/WEIDLER,BROADWAY/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-BROADWAY/I5[RAMP TO NB I5,NB I5 TO/SB FREMONT BRG,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/SB FREMONT BRG,NB I5 TO/GREELEY,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/GREELEY,NB FREMONT BRG TO/NB I5,I5 Next Ramp,0,0,0,0,0
-EB FREMONT BRG TO/NB I5,NB I5 TO/GOING,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/GOING,GOING/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-GOING/I5[RAMP TO NB I5,ALBERTA/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-ALBERTA/I5[RAMP TO NB I5,NB I5 TO/ROSA PARKS,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/ROSA PARKS,ROSA PARKS/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-ROSA PARKS/I5[RAMP TO NB I5,NB I5 TO/LOMBARD EB,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/LOMBARD EB,NB I5 TO/LOMBARD WB,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/LOMBARD WB,NB I5 TO/COLUMBIA,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/COLUMBIA,NB I5 TO/VICTORY,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/VICTORY,NB I5 TO/MARINE DR,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/MARINE DR,DENVER/SCHMEER[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-DENVER/SCHMEER[RAMP TO NB I5,MARINE DR/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-MARINE DR/I5[RAMP TO NB I5,NB I5 TO/JANTZEN BEACH,I5 Next Ramp,0,0,0,0,0
-NB I5 TO/JANTZEN BEACH,JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/JANTZEN BEACH,TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,SB I5 TO/MARINE DR,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/MARINE DR,MARINE DR/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-MARINE DR/I5[RAMP TO SB I5,SB I5 TO/DENVER,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/DENVER,VICTORY/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-VICTORY/I5[RAMP TO SB I5,COLUMBIA/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-COLUMBIA/I5[RAMP TO SB I5,LOMBARD/I5[WB RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-LOMBARD/I5[WB RAMP TO SB I5,LOMBARD/I5[EB RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-LOMBARD/I5[EB RAMP TO SB I5,SB I5 TO/ROSA PARKS,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/ROSA PARKS,ROSA PARKS/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-ROSA PARKS/I5[RAMP TO SB I5,SB I5 TO/ALBERTA,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/ALBERTA,ALBERTA/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-ALBERTA/I5[RAMP TO SB I5,GOING/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-GOING/I5[RAMP TO SB I5,SB I5 TO/SB FREMONT BRG,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/SB FREMONT BRG,GREELEY/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-GREELEY/I5[RAMP TO SB I5,NB FREMONT BRG TO/SB I5,I5 Next Ramp,0,0,0,0,0
-NB FREMONT BRG TO/SB I5,SB I5 TO/BROADWAY,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/BROADWAY,WEIDLER/WHEELER[RAMP TO SB I5,I5 Next Ramp,0,0,0,0,0
-WEIDLER/WHEELER[RAMP TO SB I5,SB I5 TO/EB I84,I5 Next Ramp,0,0,0,0,0
-SB I5 TO/MACADAM,SB I5 TO/NB I405,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/WEIDLER,WB I84 TO/NB I5,I5 Previous Ramp,0,0,0,0,0
-CAPITOL/HUBER[RAMP TO NB I5,BARBUR/64[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/MORRISON BRG,SB I5 TO/EB I84,I5 Previous Ramp,0,0,0,0,0
-MULTNOMAH/22[RAMP TO NB I5,NB I5 TO/TERWILLIGER,I5 Previous Ramp,0,0,0,0,0
-CAPITOL/I5[RAMP TO SB I5,SB I5 TO/CAPITOL,I5 Previous Ramp,0,0,0,0,0
-HOOD/GAINES[RAMP TO SB I5,SB I405 TO/SB I5,I5 Previous Ramp,0,0,0,0,0
-RIVER/HARBOR[RAMP TO SB I5,SB I5 TO/MACADAM,I5 Previous Ramp,0,0,0,0,0
-WB I84 TO/SB I5,SB I5 TO/MORRISON BRG,I5 Previous Ramp,0,0,0,0,0
-WB I84 TO/NB I5,MORRISON BRG TO/NB I5,I5 Previous Ramp,0,0,0,0,0
-SB I405 TO/SB I5,RIVER/HARBOR[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I405 TO/NB I5,MACADAM/GAINES[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/MACADAM,NB I5 TO/CORBETT,I5 Previous Ramp,0,0,0,0,0
-TERWILLIGER/I5[RAMP TO NB I5,MULTNOMAH/22[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/MULTNOMAH,SB I5 TO/TERWILLIGER,I5 Previous Ramp,0,0,0,0,0
-MACADAM/GAINES[RAMP TO NB I5,NB I5 TO/NB I405,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/TERWILLIGER,SPRING GARDEN/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/CORBETT,TERWILLIGER/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/TAYLORS FERRY,CAPITOL/HUBER[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/TERWILLIGER,HOOD/GAINES[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/EB I84,SB I405 TO/NB I5,I5 Previous Ramp,0,0,0,0,0
-MORRISON BRG TO/NB I5,NB I5 TO/EB I84,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/NB I405,NB I5 TO/MACADAM,I5 Previous Ramp,0,0,0,0,0
-BARBUR/64[RAMP TO NB I5,NB I5 NO/BARBUR,I5 Previous Ramp,0,0,0,0,0
-BARBUR/64[RAMP TO SB I5,SB I5 TO/PACIFIC HWY,I5 Previous Ramp,0,0,0,0,0
-SPRING GARDEN/I5[RAMP TO NB I5,NB I5 TO/TAYLORS FERRY,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/BARBUR,SB I5 TO/MULTNOMAH,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/NB I405,WB I84 TO/SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/PACIFIC HWY,CAPITOL/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/CAPITOL,SB I5 TO/BARBUR,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/HAINES,BARBUR/64[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-BROADWAY/I5[RAMP TO NB I5,NB I5 TO/WEIDLER,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/SB FREMONT BRG,BROADWAY/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/GREELEY,NB I5 TO/SB FREMONT BRG,I5 Previous Ramp,0,0,0,0,0
-NB FREMONT BRG TO/NB I5,NB I5 TO/GREELEY,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/GOING,EB FREMONT BRG TO/NB I5,I5 Previous Ramp,0,0,0,0,0
-GOING/I5[RAMP TO NB I5,NB I5 TO/GOING,I5 Previous Ramp,0,0,0,0,0
-ALBERTA/I5[RAMP TO NB I5,GOING/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/ROSA PARKS,ALBERTA/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-ROSA PARKS/I5[RAMP TO NB I5,NB I5 TO/ROSA PARKS,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/LOMBARD EB,ROSA PARKS/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/LOMBARD WB,NB I5 TO/LOMBARD EB,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/COLUMBIA,NB I5 TO/LOMBARD WB,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/VICTORY,NB I5 TO/COLUMBIA,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/MARINE DR,NB I5 TO/VICTORY,I5 Previous Ramp,0,0,0,0,0
-DENVER/SCHMEER[RAMP TO NB I5,NB I5 TO/MARINE DR,I5 Previous Ramp,0,0,0,0,0
-MARINE DR/I5[RAMP TO NB I5,DENVER/SCHMEER[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-NB I5 TO/JANTZEN BEACH,MARINE DR/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0,0,0
-JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,NB I5 TO/JANTZEN BEACH,I5 Previous Ramp,0,0,0,0,0
-TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,SB I5 TO/JANTZEN BEACH,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/MARINE DR,TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-MARINE DR/I5[RAMP TO SB I5,SB I5 TO/MARINE DR,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/DENVER,MARINE DR/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-VICTORY/I5[RAMP TO SB I5,SB I5 TO/DENVER,I5 Previous Ramp,0,0,0,0,0
-COLUMBIA/I5[RAMP TO SB I5,VICTORY/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-LOMBARD/I5[WB RAMP TO SB I5,COLUMBIA/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-LOMBARD/I5[EB RAMP TO SB I5,LOMBARD/I5[WB RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/ROSA PARKS,LOMBARD/I5[EB RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-ROSA PARKS/I5[RAMP TO SB I5,SB I5 TO/ROSA PARKS,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/ALBERTA,ROSA PARKS/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-ALBERTA/I5[RAMP TO SB I5,SB I5 TO/ALBERTA,I5 Previous Ramp,0,0,0,0,0
-GOING/I5[RAMP TO SB I5,ALBERTA/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/SB FREMONT BRG,GOING/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-GREELEY/I5[RAMP TO SB I5,SB I5 TO/SB FREMONT BRG,I5 Previous Ramp,0,0,0,0,0
-NB FREMONT BRG TO/SB I5,GREELEY/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/BROADWAY,NB FREMONT BRG TO/SB I5,I5 Previous Ramp,0,0,0,0,0
-WEIDLER/WHEELER[RAMP TO SB I5,SB I5 TO/BROADWAY,I5 Previous Ramp,0,0,0,0,0
-SB I5 TO/EB I84,WEIDLER/WHEELER[RAMP TO SB I5,I5 Previous Ramp,0,0,0,0,0
-MLK,400,100 Blocks - NE Ave,0,0,0,0,0
-Grand,500,100 Blocks - NE Ave,0,0,0,0,0
-Lombard,7500,100 Blocks - N St,0,0,0,0,0
-Willis,8400,100 Blocks - N St,0,0,0,0,0
-Fessenden,9500,100 Blocks - N St,0,0,0,0,0
-Lombard,7500,100 Blocks - NE St,0,0,0,0,0
-Burnside,0,100 Blocks - NE St,0,0,0,0,0
-Fremont,3500,100 Blocks - NE St,0,0,0,0,0
-Ainsworth,6000,100 Blocks - NE St,0,0,0,0,0
-Killingsworth,5500,100 Blocks - NE St,0,0,0,0,0
-Halsey,1500,100 Blocks - NE St,0,0,0,0,0
-Dekum,6800,100 Blocks - NE St,0,0,0,0,0
-Prescott,4500,100 Blocks - NE St,0,0,0,0,0
-Weidler,1600,100 Blocks - NE St,0,0,0,0,0
-Russell,2600,100 Blocks - NE St,0,0,0,0,0
-Broadway,1700,100 Blocks - NE St,0,0,0,0,0
-Going,4600,100 Blocks - NE St,0,0,0,0,0
-San Rafael,2000,100 Blocks - NE St,0,0,0,0,0
-Skidmore,4300,100 Blocks - NE St,0,0,0,0,0
-Shaver,4000,100 Blocks - NE St,0,0,0,0,0
-Alberta,5000,100 Blocks - NE St,0,0,0,0,0
-Rosa Parks,6500,100 Blocks - NE St,0,0,0,0,0
-Glisan,500,100 Blocks - NE St,0,0,0,0,0
-Denver,2000,100 Blocks - N Ave,0,0,0,0,0
-Greeley,2800,100 Blocks - N Ave,0,0,0,0,0
-Mississippi,900,100 Blocks - N Ave,0,0,0,0,0
-Buchanan,7500,100 Blocks - N Ave,0,0,0,0,0
-Catlin,9500,100 Blocks - N Ave,0,0,0,0,0
-Wall,6100,100 Blocks - N Ave,0,0,0,0,0
-Portsmouth,5300,100 Blocks - N Ave,0,0,0,0,0
-Ida,6900,100 Blocks - N Ave,0,0,0,0,0
-Weyerhaeuser,10000,100 Blocks - N Ave,0,0,0,0,0
-Williams,0,100 Blocks - N Ave,0,0,0,0,0
-Vancouver,200,100 Blocks - N Ave,0,0,0,0,0
-Peninsular,3000,100 Blocks - N Ave,0,0,0,0,0
-Interstate,1500,100 Blocks - N Ave,0,0,0,0,0
-Mohawk,8000,100 Blocks - N Ave,0,0,0,0,0
-Albina,800,100 Blocks - N Ave,0,0,0,0,0
-St Louis,9100,100 Blocks - N Ave,0,0,0,0,0
-Commercial,500,100 Blocks - N Ave,0,0,0,0,0
-Chautauqua,4000,100 Blocks - N Ave,0,0,0,0,0
-Woolsey,4500,100 Blocks - N Ave,0,0,0,0,0
-Broadway,700,100 Blocks - SW Ave,0,0,0,0,0
-Park,800,100 Blocks - SW Ave,0,0,0,0,0
-Broadway,700,100 Blocks - NW Ave,0,0,0,0,0
-Park,800,100 Blocks - NW Ave,0,0,0,0,0
-Burnside,0,100 Blocks - SW St,0,0,0,0,0
-Washington,500,100 Blocks - SW St,0,0,0,0,0
-Salmon,1000,100 Blocks - SW St,0,0,0,0,0
-Clay,1500,100 Blocks - SW St,0,0,0,0,0
-Market,1600,100 Blocks - SW St,0,0,0,0,0
-Caruthers,2400,100 Blocks - SW St,0,0,0,0,0
-Hamilton,4500,100 Blocks - SW St,0,0,0,0,0
-Vermont,6700,100 Blocks - SW St,0,0,0,0,0
-Stephenson,11800,100 Blocks - SW St,0,0,0,0,0
-Multnomah,8000,100 Blocks - SW St,0,0,0,0,0
-Spring Garden,8500,100 Blocks - SW St,0,0,0,0,0
-Burnside,0,100 Blocks - NW St,0,0,0,0,0
-Glisan,500,100 Blocks - NW St,0,0,0,0,0
-Lovejoy,1000,100 Blocks - NW St,0,0,0,0,0
-Vaughn,2000,100 Blocks - NW St,0,0,0,0,0
-Nicolai,2500,100 Blocks - NW St,0,0,0,0,0
-Burnside,0,100 Blocks - SE St,0,0,0,0,0
-Stark,500,100 Blocks - SE St,0,0,0,0,0
-Belmont,900,100 Blocks - SE St,0,0,0,0,0
-Hawthorne,1500,100 Blocks - SE St,0,0,0,0,0
-Division,2500,100 Blocks - SE St,0,0,0,0,0
-Powell,3500,100 Blocks - SE St,0,0,0,0,0
-Holgate,4500,100 Blocks - SE St,0,0,0,0,0
-Harold,5500,100 Blocks - SE St,0,0,0,0,0
-Woodstock,6000,100 Blocks - SE St,0,0,0,0,0
-Duke,6500,100 Blocks - SE St,0,0,0,0,0
-Bybee,7000,100 Blocks - SE St,0,0,0,0,0
-Flavel,7500,100 Blocks - SE St,0,0,0,0,0
-Tacoma,8100,100 Blocks - SE St,0,0,0,0,0
-Clatsop,8600,100 Blocks - SE St,0,0,0,0,0
-Transfer,33,EMD Protocols,0,0,0,0,0
-Person Down Unknown,32,EMD Protocols,0,0,0,0,0
-Unconscious/Fainting,31,EMD Protocols,0,0,0,0,0
-Trauma,30,EMD Protocols,0,0,0,0,0
-Traffic Collision,29,EMD Protocols,0,0,0,0,0
-Stroke,28,EMD Protocols,0,0,0,0,0
-Stab/Gunshot,27,EMD Protocols,0,0,0,0,0
-Sick,26,EMD Protocols,0,0,0,0,0
-Mental Health,25,EMD Protocols,0,0,0,0,0
-Pregnancy,24,EMD Protocols,0,0,0,0,0
-Overdose,23,EMD Protocols,0,0,0,0,0
-Inaccessible,22,EMD Protocols,0,0,0,0,0
-Hemorrhage,21,EMD Protocols,0,0,0,0,0
-Heat/Cold,20,EMD Protocols,0,0,0,0,0
-Heart Problems,19,EMD Protocols,0,0,0,0,0
-Headache,18,EMD Protocols,0,0,0,0,0
-Falls,17,EMD Protocols,0,0,0,0,0
-Eye Problems,16,EMD Protocols,0,0,0,0,0
-Electrocution,15,EMD Protocols,0,0,0,0,0
-Drowning,14,EMD Protocols,0,0,0,0,0
-Diabetic Problems,13,EMD Protocols,0,0,0,0,0
-Seizures,12,EMD Protocols,0,0,0,0,0
-Choking,11,EMD Protocols,0,0,0,0,0
-Chest Pain,10,EMD Protocols,0,0,0,0,0
-Arrest/Death,9,EMD Protocols,0,0,0,0,0
-Carbon Monoxide,8,EMD Protocols,0,0,0,0,0
-Breathing Problems,6,EMD Protocols,0,0,0,0,0
-Burns,7,EMD Protocols,0,0,0,0,0
-Allergies,2,EMD Protocols,0,0,0,0,0
-Animal Attacks,3,EMD Protocols,0,0,0,0,0
-Assault,4,EMD Protocols,0,0,0,0,0
-Back Pain,5,EMD Protocols,0,0,0,0,0
-Abdominal Pain,1,EMD Protocols,0,0,0,0,0
-ALRMD,1,Type Code Priority,0,0,0.0,0,0.0
-ALRMR,1,Type Code Priority,0,0,0.0,0,0.0
-ASSLTW,1,Type Code Priority,0,0,0.0,0,0.0
-DISTW,1,Type Code Priority,0,0,0.0,0,0.0
-DOMW,1,Type Code Priority,0,0,0.0,0,0.0
-RAPEW,1,Type Code Priority,0,0,0.0,0,0.0
-ROVIOW,1,Type Code Priority,0,0,0.0,0,0.0
-THRETW,1,Type Code Priority,0,0,0.0,0,0.0
-UNWNTW,1,Type Code Priority,0,0,0.0,0,0.0
-NOISE,7,Type Code Priority,0,0,0.0,0,0.0
-PARTY,7,Type Code Priority,0,0,0.0,0,0.0
-FOOD,7,Type Code Priority,0,0,0.0,0,0.0
-PARK,7,Type Code Priority,0,0,0.0,0,0.0
-VEHAB,7,Type Code Priority,0,0,0.0,0,0.0
-MISS,6,Type Code Priority,0,0,0.0,0,0.0
-STNDBY,6,Type Code Priority,0,0,0.0,0,0.0
-SCHL,6,Type Code Priority,0,0,0.0,0,0.0
-INFO,4,Type Code Priority,0,0,0.0,0,0.0
-AREACK,4,Type Code Priority,0,0,0.0,0,0.0
-DEATH,4,Type Code Priority,0,0,0.0,0,0.0
-ASSIST,4,Type Code Priority,0,0,0.0,0,0.0
-COVER1,4,Type Code Priority,0,0,0.0,0,0.0
-SUSP,4,Type Code Priority,0,0,0.0,0,0.0
-HAZARD,4,Type Code Priority,0,0,0.0,0,0.0
-MSG,4,Type Code Priority,0,0,0.0,0,0.0
-MSGD,4,Type Code Priority,0,0,0.0,0,0.0
-WELCK,4,Type Code Priority,0,0,0.0,0,0.0
-SUSPP,3,Type Code Priority,0,0,0.0,0,0.0
-911H,3,Type Code Priority,0,0,0.0,0,0.0
-ESCAPE,3,Type Code Priority,0,0,0.0,0,0.0
-WARR,3,Type Code Priority,0,0,0.0,0,0.0
-MCCL,3,Type Code Priority,0,0,0.0,0,0.0
-BOMBTH,3,Type Code Priority,0,0,0.0,0,0.0
-DEVICE,3,Type Code Priority,0,0,0.0,0,0.0
-POLINV,3,Type Code Priority,0,0,0.0,0,0.0
-MISSE,2,Type Code Priority,0,0,0.0,0,0.0
-WELCKP,2,Type Code Priority,0,0,0.0,0,0.0
-TMET,6,Type Code Priority,0,0,0.0,0,0.0
-TMETP,2,Type Code Priority,0,0,0.0,0,0.0
-SUICD,2,Type Code Priority,0,0,0.0,0,0.0
-ECIT,2,Type Code Priority,0,0,0.0,0,0.0
-SCHLT,2,Type Code Priority,0,0,0.0,0,0.0
-SCHLP,2,Type Code Priority,0,0,0.0,0,0.0
-COVER3,1,Type Code Priority,0,0,0.0,0,0.0
-ZERO,1,Type Code Priority,0,0,0.0,0,0.0
-SUSPW,1,Type Code Priority,0,0,0.0,0,0.0
-WRONG,1,Type Code Priority,0,0,0.0,0,0.0
-HOSTGE,1,Type Code Priority,0,0,0.0,0,0.0
-HIJACK,1,Type Code Priority,0,0,0.0,0,0.0
-SUICDW,1,Type Code Priority,0,0,0.0,0,0.0
-ECITW,1,Type Code Priority,0,0,0.0,0,0.0
-SCHLW,1,Type Code Priority,0,0,0.0,0,0.0
-PLANE,1,Type Code Priority,0,0,0.0,0,0.0
-SHOOTW,1,Type Code Priority,0,0,0.0,0,0.0
-STABW,1,Type Code Priority,0,0,0.0,0,0.0
-ACCINJ,2,Type Code Priority,0,0,0.0,0,0.0
-MEDICL,2,Type Code Priority,0,0,0.0,0,0.0
-CHEM,2,Type Code Priority,0,0,0.0,0,0.0
-CHEMTH,2,Type Code Priority,0,0,0.0,0,0.0
-TUNNEL,2,Type Code Priority,0,0,0.0,0,0.0
-ACCHRP,3,Type Code Priority,0,0,0.0,0,0.0
-ARSONP,3,Type Code Priority,0,0,0.0,0,0.0
-FIRE,3,Type Code Priority,0,0,0.0,0,0.0
-RIVPOL,3,Type Code Priority,0,0,0.0,0,0.0
-SHOTS,3,Type Code Priority,0,0,0.0,0,0.0
-RACING,3,Type Code Priority,0,0,0.0,0,0.0
-ACCNON,4,Type Code Priority,0,0,0.0,0,0.0
-ACCUNK,4,Type Code Priority,0,0,0.0,0,0.0
-SHOOT,4,Type Code Priority,0,0,0.0,0,0.0
-STAB,4,Type Code Priority,0,0,0.0,0,0.0
-ACCHR,7,Type Code Priority,0,0,0.0,0,0.0
+SB I5 TO/BARBUR,SB I5 TO/CAPITOL,I5 Next Ramp,1,1,1217.0,590,1809.0
+CIVIL,7,Type Code Priority,1,1,373.0,-65,310.0
+Ohio,OH,State Abbreviations,2,2,227.0,-196,35.0
+SB I5 TO/TERWILLIGER,SB I5 TO/MULTNOMAH,I5 Next Ramp,0,0,0.0,-50,-50.0
+Community Garden,CG,Common Abbreviations,2,2,528.0,20,552.0
+MISSE,2,Type Code Priority,0,0,0.0,-50,-50.0
+Hamilton,4500,100 Blocks - SW St,0,0,0.0,-50,-50.0
+HOOD/GAINES[RAMP TO SB I5,SB I5 TO/TERWILLIGER,I5 Next Ramp,0,0,0.0,-50,-50.0
+RIVPOL,3,Type Code Priority,0,0,0.0,-50,-50.0
+ROBP,2,Type Code Priority,0,0,0.0,-50,-50.0
+ALRMB,6,Type Code Priority,1,1,361.0,-31,332.0
+SB I405 TO/SB I5,HOOD/GAINES[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Unconscious/Fainting,31,EMD Protocols,0,0,0.0,-50,-50.0
+Choking,11,EMD Protocols,0,0,0.0,-50,-50.0
+SB I5 TO/MARINE DR,MARINE DR/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+MULTNOMAH/22[RAMP TO NB I5,NB I5 TO/TERWILLIGER,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SW Vermont,6700,SW 100 Block,6,4,452.0,98,560.0
+Vibra Specialty Hospital,10300 NE Hancock St,Hospital Address,4,4,168.0,-199,-23.0
+Ainsworth,6000,100 Blocks - NE St,0,0,0.0,-50,-50.0
+BOMBTH,3,Type Code Priority,0,0,0.0,-50,-50.0
+Death Homicide,55A,Sensitive Incident Codes,3,3,715.0,45,766.0
+Nicolai,2500,100 Blocks - NW St,0,0,0.0,-50,-50.0
+Customer/Custody,CUST,Common Abbreviations,2,2,599.0,106,709.0
+SUICDW,1,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/CAPITOL,SB I5 TO/BARBUR,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Appointment,APPT,Common Abbreviations,2,2,621.0,36,661.0
+VICTORY/I5[RAMP TO SB I5,COLUMBIA/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+PARK,7,Type Code Priority,0,0,0.0,-50,-50.0
+Cream,CRM,Color Abbreviations,2,2,602.0,-57,549.0
+Halsey,1500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Unity Center for Behavioral Health,UB,Hospital Abbreviation,5,3,676.0,-83,601.0
+MSG,4,Type Code Priority,0,0,0.0,-50,-50.0
+Burns,7,EMD Protocols,0,0,0.0,-50,-50.0
+Drunk,DK,Common Abbreviations,2,2,550.0,147,701.0
+RACING,3,Type Code Priority,0,0,0.0,-50,-50.0
+SW Hamilton,4500,SW 100 Block,5,3,402.0,-204,206.0
+Pennsylvania,PA,State Abbreviations,2,2,211.0,-208,7.0
+SW Stephonson,11800,SW 100 Block,4,4,402.0,18,428.0
+Burglary,BURG,Common Abbreviations,2,2,426.0,-73,357.0
+NB I5 TO/SB FREMONT BRG,NB I5 TO/GREELEY,I5 Next Ramp,0,0,0.0,-50,-50.0
+BARBUR/64[RAMP TO SB I5,SB I5 TO/PACIFIC HWY,I5 Previous Ramp,0,0,0.0,-50,-50.0
+TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,SB I5 TO/MARINE DR,I5 Next Ramp,0,0,0.0,-50,-50.0
+Dodge,DODG,Vehicle Abbreviations,2,2,520.0,-77,447.0
+Triumph,TRIU,Vehicle Abbreviations,2,2,643.0,86,733.0
+ACCHRP,3,Type Code Priority,0,0,0.0,-50,-50.0
+WEIDLER/WHEELER[RAMP TO SB I5,SB I5 TO/EB I84,I5 Next Ramp,0,0,0.0,-50,-50.0
+ALBERTA/I5[RAMP TO NB I5,NB I5 TO/ROSA PARKS,I5 Next Ramp,0,0,0.0,-50,-50.0
+Headache,18,EMD Protocols,1,1,1199.0,102,1303.0
+Maroon,MAR,Color Abbreviations,2,2,665.0,26,695.0
+Denver,2000,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+ANIMLP,2,Type Code Priority,0,0,0.0,-50,-50.0
+HOOD/GAINES[RAMP TO SB I5,SB I405 TO/SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+RAPEW,1,Type Code Priority,0,0,0.0,-50,-50.0
+East Precinct,737 SE 106 Av,Precinct Address,5,5,494.0,56,560.0
+Blue,BLU,Color Abbreviations,2,2,442.0,-90,356.0
+Chrysler,CHRY,Vehicle Abbreviations,2,2,545.0,155,704.0
+Unity Center for Behavioral Health,NE 2 Av/NE Wasco St,Hospital Intersection,5,5,708.0,75,793.0
+ALRMA,6,Type Code Priority,3,1,633.0,87,724.0
+SB I5 TO/MULTNOMAH,SB I5 TO/TERWILLIGER,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Death Unknown/Natural,55K,Sensitive Incident Codes,2,2,187.0,-121,70.0
+Georgia,GA,State Abbreviations,4,4,488.0,65,561.0
+Peninsular,3000,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+WELCKP,2,Type Code Priority,0,0,0.0,-50,-50.0
+NB FREMONT BRG TO/SB I5,SB I5 TO/BROADWAY,I5 Next Ramp,0,0,0.0,-50,-50.0
+Columbia Slough Trail,CST,Common Abbreviations,2,2,443.0,-110,337.0
+North Precinct,NE MLK Av/NE Emerson St,Precinct Intersection,4,4,391.0,-238,161.0
+Burnside,0,100 Blocks - SW St,0,0,0.0,-50,-50.0
+Veteran's Hospital,3710 SW US Veterans Hospital Rd,Hospital Address,4,4,188.0,-225,-29.0
+WB I84 TO/SB I5,SB I5 TO/MORRISON BRG,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Greeley,2800,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Company/County,CO,Common Abbreviations,2,2,525.0,-65,464.0
+NB I5 TO/EB I84,SB I405 TO/NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Red,RED,Color Abbreviations,2,2,615.0,139,758.0
+Burnside,0,100 Blocks - NW St,0,0,0.0,-50,-50.0
+Breathing,BR,Common Abbreviations,2,2,427.0,23,454.0
+ARSONP,3,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/MACADAM,SB I5 TO/NB I405,I5 Previous Ramp,0,0,0.0,-50,-50.0
+San Rafael,2000,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Peugeot,PEUG,Vehicle Abbreviations,2,2,593.0,-26,571.0
+Central Precinct,1111 SW 2 Av,Precinct Address,4,4,184.0,-88,104.0
+Orange,ORG,Color Abbreviations,2,2,443.0,-141,306.0
+Colorado,CO,State Abbreviations,4,4,413.0,-188,233.0
+UNWNT,4,Type Code Priority,1,1,349.0,-117,234.0
+STAB,4,Type Code Priority,0,0,0.0,-50,-50.0
+TERWILLIGER/I5[RAMP TO NB I5,NB I5 TO/CORBETT,I5 Next Ramp,1,1,1192.0,248,1442.0
+VEHSTP,3,Type Code Priority,0,0,0.0,-50,-50.0
+Building,BLDG,Common Abbreviations,2,2,518.0,-127,395.0
+Nebraska,NE,State Abbreviations,2,2,242.0,-197,49.0
+DEATH,4,Type Code Priority,0,0,0.0,-50,-50.0
+Allergies,2,EMD Protocols,0,0,0.0,-50,-50.0
+Bombing Event,33A,Sensitive Incident Codes,2,2,223.0,-240,-13.0
+JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,NB I5 TO/JANTZEN BEACH,I5 Previous Ramp,0,0,0.0,-50,-50.0
+WARR,3,Type Code Priority,0,0,0.0,-50,-50.0
+Anonymous,ANON,Common Abbreviations,2,2,1316.0,207,1527.0
+Going,4600,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Weyerhaeuser,10000,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+East Precinct,EA,Precinct Abbreviation,5,5,698.0,-60,648.0
+MCCL,3,Type Code Priority,0,0,0.0,-50,-50.0
+7 Western,H1,State Abbreviations,2,2,197.0,-234,-33.0
+All 50,Z1,State Abbreviations,2,2,221.0,-150,75.0
+Alaska,AK,State Abbreviations,4,4,606.0,7,621.0
+Beige,BGE,Color Abbreviations,2,2,491.0,69,564.0
+NB I5 TO/GOING,EB FREMONT BRG TO/NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+GOING/I5[RAMP TO NB I5,NB I5 TO/GOING,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Heat/Cold,20,EMD Protocols,0,0,0.0,-50,-50.0
+Electrocution,15,EMD Protocols,0,0,0.0,-50,-50.0
+SB I5 TO/BROADWAY,NB FREMONT BRG TO/SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SUSPW,1,Type Code Priority,1,1,1188.0,306,1496.0
+Eye Problems,16,EMD Protocols,0,0,0.0,-50,-50.0
+Do Not Broadcast,DNB,Common Abbreviations,2,2,542.0,119,665.0
+Different/Difficult,DIFF,Common Abbreviations,2,2,1322.0,597,1923.0
+NB I5 TO/COLUMBIA,NB I5 TO/LOMBARD WB,I5 Previous Ramp,0,0,0.0,-50,-50.0
+GOING/I5[RAMP TO SB I5,SB I5 TO/SB FREMONT BRG,I5 Next Ramp,0,0,0.0,-50,-50.0
+POLINV,3,Type Code Priority,0,0,0.0,-50,-50.0
+Arrest/Death,9,EMD Protocols,0,0,0.0,-50,-50.0
+Bomb Threat,33B,Sensitive Incident Codes,2,2,228.0,-65,167.0
+Daughter,DOTR,Common Abbreviations,2,2,600.0,65,669.0
+NB I5 TO/CORBETT,NB I5 TO/MACADAM,I5 Next Ramp,0,0,0.0,-50,-50.0
+FRAUDP,3,Type Code Priority,2,0,574.0,338,914.0
+Park,800,100 Blocks - NW Ave,1,1,1180.0,60,1242.0
+SHOOTW,1,Type Code Priority,0,0,0.0,-50,-50.0
+South Carolina,SC,State Abbreviations,2,2,226.0,-138,92.0
+Willis,8400,100 Blocks - N St,0,0,0.0,-50,-50.0
+Broadway,1700,100 Blocks - NE St,0,0,0.0,-50,-50.0
+PLANE,1,Type Code Priority,0,0,0.0,-50,-50.0
+Vermont,6700,100 Blocks - SW St,0,0,0.0,-50,-50.0
+Abdominal Pain,1,EMD Protocols,1,1,1170.0,448,1620.0
+TRASH,7,Type Code Priority,1,1,346.0,-144,204.0
+Lombard,7500,100 Blocks - N St,0,0,0.0,-50,-50.0
+HOSTGE,1,Type Code Priority,0,0,0.0,-50,-50.0
+R,Rodger,Phonetic Alphabet,2,2,400.0,-77,327.0
+Killingsworth,5500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+NB I5 TO/MARINE DR,DENVER/SCHMEER[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+MULTNOMAH/22[RAMP TO NB I5,TERWILLIGER/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+ROSA PARKS/I5[RAMP TO NB I5,NB I5 TO/LOMBARD EB,I5 Next Ramp,0,0,0.0,-50,-50.0
+Nevada,NV,State Abbreviations,4,2,541.0,-56,491.0
+Wall,6100,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Corner,CRNR,Common Abbreviations,2,2,493.0,-90,407.0
+O,Ocean,Phonetic Alphabet,2,2,403.0,-99,308.0
+Minnesota,MN,State Abbreviations,2,2,387.0,-211,180.0
+C,Charlie,Phonetic Alphabet,2,2,231.0,-112,123.0
+SEXP,4,Type Code Priority,1,1,370.0,-8,364.0
+T,Tom,Phonetic Alphabet,2,2,217.0,-147,74.0
+FIRE,3,Type Code Priority,0,0,0.0,-50,-50.0
+MACADAM/GAINES[RAMP TO NB I5,SB I405 TO/NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+A,Adam,Phonetic Alphabet,2,2,250.0,-130,124.0
+Arkansas,AR,State Abbreviations,4,2,180.0,-183,3.0
+Alabama,AL,State Abbreviations,4,4,406.0,-2,412.0
+LOMBARD/I5[WB RAMP TO SB I5,COLUMBIA/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+E,Edward,Phonetic Alphabet,2,2,232.0,-200,36.0
+SUSP,4,Type Code Priority,0,0,0.0,-50,-50.0
+SPRING GARDEN/I5[RAMP TO NB I5,NB I5 TO/TAYLORS FERRY,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Gresham PD,NW Eastman Pkwy/NW Division St,Precinct Intersection,4,4,209.0,-125,92.0
+Bybee,7000,100 Blocks - SE St,3,-1,0.0,507,509.0
+SB I5 TO/DENVER,VICTORY/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Gold,GLD,Color Abbreviations,2,2,651.0,-37,618.0
+P,Paul,Phonetic Alphabet,2,2,389.0,-226,167.0
+NB I5 TO/TAYLORS FERRY,SPRING GARDEN/I5[RAMP TO NB I5,I5 Next Ramp,1,1,1185.0,22,1209.0
+Emanuel Hospital,N Gantenbein Av/N Graham St,Hospital Intersection,7,3,302.0,27,339.0
+COVER1,4,Type Code Priority,1,1,1175.0,416,1593.0
+Providence Hospital,4805 NE Glisan St,Hospital Address,4,4,231.0,-96,143.0
+HIJACK,1,Type Code Priority,0,0,0.0,-50,-50.0
+HARASP,3,Type Code Priority,0,0,0.0,-50,-50.0
+SW Salmon,1000,SW 100 Block,5,5,408.0,-231,187.0
+LOMBARD/I5[EB RAMP TO SB I5,LOMBARD/I5[WB RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/DENVER,MARINE DR/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Connecticut,CT,State Abbreviations,4,4,668.0,-44,632.0
+Tacoma,8100,100 Blocks - SE St,0,0,0.0,-50,-50.0
+Business,BUSN,Common Abbreviations,2,2,573.0,84,661.0
+NB I5 TO/ROSA PARKS,ROSA PARKS/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+South Dakota,SD,State Abbreviations,2,2,237.0,-187,54.0
+VEHAB,7,Type Code Priority,0,0,0.0,-50,-50.0
+Albina,800,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Daihatsu,DAIH,Vehicle Abbreviations,2,2,526.0,120,650.0
+M,Mary,Phonetic Alphabet,2,2,189.0,-184,9.0
+F,Frank,Phonetic Alphabet,2,2,202.0,-70,136.0
+STABW,1,Type Code Priority,0,0,0.0,-50,-50.0
+Chest Pain,10,EMD Protocols,0,0,0.0,-50,-50.0
+THEFTP,4,Type Code Priority,1,1,366.0,-28,340.0
+THEFTC,6,Type Code Priority,1,1,359.0,15,376.0
+NB I5 TO/GREELEY,NB I5 TO/SB FREMONT BRG,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Virginia,VA,State Abbreviations,2,2,241.0,-56,189.0
+EB FREMONT BRG TO/NB I5,NB I5 TO/GOING,I5 Next Ramp,0,0,0.0,-50,-50.0
+Michigan,MI,State Abbreviations,2,2,206.0,-117,93.0
+SCHLT,2,Type Code Priority,0,0,0.0,-50,-50.0
+ASSLTW,1,Type Code Priority,0,0,0.0,-50,-50.0
+Assault,4,EMD Protocols,0,0,0.0,-50,-50.0
+North Precinct,449 NE Emerson St,Precinct Address,4,4,490.0,-120,378.0
+J,John,Phonetic Alphabet,2,2,195.0,-215,-16.0
+PREMCK,3,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/ROSA PARKS,ROSA PARKS/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Seizures,12,EMD Protocols,0,0,0.0,-50,-50.0
+ABUSE,6,Type Code Priority,1,1,352.0,21,375.0
+Massachusetts,MA,State Abbreviations,2,2,245.0,-51,198.0
+BARBUR/64[RAMP TO SB I5,SB I5 TO/HAINES,I5 Next Ramp,0,0,0.0,-50,-50.0
+ROBW,1,Type Code Priority,0,0,0.0,-50,-50.0
+Wisconsin,WI,State Abbreviations,2,2,213.0,-59,158.0
+SB I405 TO/SB I5,RIVER/HARBOR[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Chemical/Biological Weapon Threat,33CTH,Sensitive Incident Codes,2,2,387.0,-139,252.0
+ALBERTA/I5[RAMP TO NB I5,GOING/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+NB I5 TO/NB I405,NB I5 TO/MACADAM,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/ALBERTA,ALBERTA/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Vermont,VT,State Abbreviations,2,2,188.0,-92,100.0
+JUV,6,Type Code Priority,2,0,104.0,45,151.0
+MARINE DR/I5[RAMP TO SB I5,SB I5 TO/DENVER,I5 Next Ramp,0,0,0.0,-50,-50.0
+TMET,6,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/NB I405,SB I5 TO/MACADAM,I5 Next Ramp,0,0,0.0,-50,-50.0
+NB FREMONT BRG TO/SB I5,GREELEY/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SW Washington,500,SW 100 Block,5,5,488.0,120,618.0
+ROB,7,Type Code Priority,2,0,106.0,-98,10.0
+AREACK,4,Type Code Priority,0,0,0.0,-50,-50.0
+SPRING GARDEN/I5[RAMP TO NB I5,NB I5 TO/TERWILLIGER,I5 Next Ramp,0,0,0.0,-50,-50.0
+ESCAPE,3,Type Code Priority,0,0,0.0,-50,-50.0
+Belmont,900,100 Blocks - SE St,0,0,0.0,-50,-50.0
+COLUMBIA/I5[RAMP TO SB I5,VICTORY/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Cadillac,CADI,Vehicle Abbreviations,2,2,628.0,157,789.0
+ACCHR,7,Type Code Priority,1,1,1177.0,181,1360.0
+Missouri,MO,State Abbreviations,2,2,398.0,-72,330.0
+MISS,6,Type Code Priority,0,0,0.0,-50,-50.0
+Blue Jeans,BJS,Common Abbreviations,2,2,502.0,2,508.0
+Portland Adventist Hospital,PA,Hospital Abbreviation,5,5,473.0,-17,466.0
+DOM,6,Type Code Priority,1,1,348.0,-190,160.0
+Gresham PD Rockwood/West,NE 181 Av/NE Glisan St,Precinct Intersection,4,4,394.0,-187,215.0
+Hyundai,HYUN,Vehicle Abbreviations,2,2,666.0,25,695.0
+Do Not Give Out,DNGO,Common Abbreviations,2,2,606.0,138,748.0
+JUVP,4,Type Code Priority,1,1,375.0,-23,354.0
+Lovejoy,1000,100 Blocks - NW St,0,0,0.0,-50,-50.0
+BURGP,3,Type Code Priority,0,0,0.0,-50,-50.0
+ASSLTP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Disturbance,DIST,Common Abbreviations,2,2,439.0,-150,293.0
+Complainant,COMP,Common Abbreviations,2,2,592.0,-61,535.0
+NB I5 TO/MACADAM,NB I5 TO/NB I405,I5 Next Ramp,0,0,0.0,-50,-50.0
+NB I5 TO/WEIDLER,BROADWAY/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Silent Holdup Alarm,27A,Sensitive Incident Codes,2,2,239.0,-151,92.0
+NB I5 NO/BARBUR,BARBUR/64[RAMP TO NB I5,I5 Next Ramp,1,1,1184.0,170,1356.0
+SB I5 TO/EB I84,SB I5 TO/MORRISON BRG,I5 Next Ramp,0,0,0.0,-50,-50.0
+Cooperative,COOP,Common Abbreviations,2,2,419.0,-163,260.0
+NB I5 TO/WEIDLER,WB I84 TO/NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+CAPITOL/I5[RAMP TO SB I5,SB I5 TO/PACIFIC HWY,I5 Next Ramp,0,0,0.0,-50,-50.0
+911H,3,Type Code Priority,0,0,0.0,-50,-50.0
+NB I5 TO/EB I84,MORRISON BRG TO/NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Pontiac,PONT,Vehicle Abbreviations,1,1,132.0,-150,-16.0
+Park,800,100 Blocks - SW Ave,0,0,0.0,-50,-50.0
+VICTORY/I5[RAMP TO SB I5,SB I5 TO/DENVER,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Back Pain,5,EMD Protocols,0,0,0.0,-50,-50.0
+NB I5 TO/LOMBARD EB,NB I5 TO/LOMBARD WB,I5 Next Ramp,0,0,0.0,-50,-50.0
+VANDP,3,Type Code Priority,0,0,0.0,-50,-50.0
+L,Lincoln,Phonetic Alphabet,3,3,758.0,10,774.0
+NB I5 TO/LOMBARD WB,NB I5 TO/LOMBARD EB,I5 Previous Ramp,0,0,0.0,-50,-50.0
+West Virginia,WV,State Abbreviations,2,2,201.0,-96,109.0
+DENVER/SCHMEER[RAMP TO NB I5,NB I5 TO/MARINE DR,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Contact/Continue,CONT,Common Abbreviations,2,2,428.0,-149,283.0
+Brown,BRN,Color Abbreviations,2,2,608.0,16,628.0
+Multnomah County Sheriff Office Troutdale,SW 2 St/SW Kendall Ct,Precinct Intersection,4,4,416.0,-137,287.0
+CHEMTH,2,Type Code Priority,0,0,0.0,-50,-50.0
+Carbon Monoxide,8,EMD Protocols,0,0,0.0,-50,-50.0
+Gresham PD Rockwood/West,675 NE 181 Av,Precinct Address,4,4,208.0,-67,149.0
+BURG,7,Type Code Priority,1,1,356.0,65,423.0
+Polestar,PLSR,Vehicle Abbreviations,2,2,620.0,174,798.0
+Grand,500,100 Blocks - NE Ave,0,0,0.0,-50,-50.0
+SB I5 TO/MULTNOMAH,SB I5 TO/BARBUR,I5 Next Ramp,0,0,0.0,-50,-50.0
+X,X-ray,Phonetic Alphabet,2,2,190.0,-210,-16.0
+DOMP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Clatsop,8600,100 Blocks - SE St,2,0,578.0,322,902.0
+Prescott,4500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+NB I5 TO/MACADAM,NB I5 TO/CORBETT,I5 Previous Ramp,0,0,0.0,-50,-50.0
+DOMW,1,Type Code Priority,0,0,0.0,-50,-50.0
+GREELEY/I5[RAMP TO SB I5,SB I5 TO/SB FREMONT BRG,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Daewoo,DAEW,Vehicle Abbreviations,1,1,112.0,-160,-46.0
+Silent Triggered Alarm,27B,Sensitive Incident Codes,2,2,231.0,-258,-23.0
+Saturn,STRN,Vehicle Abbreviations,1,1,100.0,-151,-49.0
+ALBERTA/I5[RAMP TO SB I5,GOING/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/SB FREMONT BRG,GREELEY/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+CHEM,2,Type Code Priority,0,0,0.0,-50,-50.0
+SUSPP,3,Type Code Priority,0,0,0.0,-50,-50.0
+Volvo,VOLV,Vehicle Abbreviations,2,2,627.0,90,721.0
+Currently,CURR,Common Abbreviations,2,2,521.0,-111,414.0
+THRETP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Catlin,9500,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Providence Hospital,PR,Hospital Abbreviation,4,4,245.0,-127,126.0
+NW Nicolai,2500,NW 100 Block,5,5,474.0,112,596.0
+New Mexico,NM,State Abbreviations,3,3,1407.0,98,1511.0
+Direction,DIR,Common Abbreviations,2,2,648.0,112,764.0
+Z,Zebra,Phonetic Alphabet,2,2,255.0,-46,213.0
+Medium,MED,Color Abbreviations,2,2,548.0,114,666.0
+Maryland,MD,State Abbreviations,4,4,693.0,-17,684.0
+SB I5 TO/BROADWAY,WEIDLER/WHEELER[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Toyota,TOYT,Vehicle Abbreviations,2,2,423.0,-143,284.0
+D,David,Phonetic Alphabet,2,2,229.0,-104,129.0
+NB I5 TO/JANTZEN BEACH,MARINE DR/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+N,Nora,Phonetic Alphabet,3,3,715.0,112,833.0
+ROSA PARKS/I5[RAMP TO SB I5,SB I5 TO/ROSA PARKS,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Volkswagen,VW,Vehicle Abbreviations,2,2,655.0,101,760.0
+NB I5 TO/VICTORY,NB I5 TO/MARINE DR,I5 Next Ramp,1,1,1197.0,503,1702.0
+NW Glisan,500,NW 100 Block,4,4,177.0,-101,84.0
+ACCUNK,4,Type Code Priority,0,0,0.0,-50,-50.0
+Dark,DRK,Color Abbreviations,2,2,521.0,-26,499.0
+SB I5 TO/ROSA PARKS,LOMBARD/I5[EB RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Good Samaritan Hospital,1015 NW 22 Av,Hospital Address,5,3,171.0,-145,34.0
+Overdose,23,EMD Protocols,0,0,0.0,-50,-50.0
+NB I5 TO/TAYLORS FERRY,CAPITOL/HUBER[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/TERWILLIGER,HOOD/GAINES[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/MARINE DR,TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Also Known As,AKA,Common Abbreviations,2,2,444.0,-68,380.0
+Stephenson,11800,100 Blocks - SW St,1,1,1181.0,391,1574.0
+East Precinct,SE 106 Av/SE Washington St,Precinct Intersection,4,4,191.0,-220,-21.0
+Yellow,YEL,Color Abbreviations,2,2,568.0,-97,475.0
+SB I5 TO/HAINES,BARBUR/64[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+WB I84 TO/SB I5,SB I5 TO/NB I405,I5 Next Ramp,1,1,1200.0,524,1726.0
+FRAUD,7,Type Code Priority,2,0,95.0,13,110.0
+ASSIST,4,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/SB FREMONT BRG,GOING/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Mt Hood Medical Center,MH,Hospital Abbreviation,6,2,16.0,43,67.0
+NB I5 TO/TERWILLIGER,SPRING GARDEN/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+VAND,7,Type Code Priority,1,1,357.0,-114,245.0
+RIVER/HARBOR[RAMP TO SB I5,SB I5 TO/MACADAM,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Asian Female,AF,Common Abbreviations,2,2,516.0,-107,413.0
+Portland Adventist Hospital,10123 SE Market St,Hospital Address,4,4,406.0,-205,209.0
+Central Precinct,SW 2 Av/SW Main St,Precinct Intersection,5,3,278.0,58,344.0
+SCHLW,1,Type Code Priority,0,0,0.0,-50,-50.0
+NB FREMONT BRG TO/NB I5,NB I5 TO/GREELEY,I5 Previous Ramp,0,0,0.0,-50,-50.0
+VICE,4,Type Code Priority,1,1,351.0,39,392.0
+MARINE DR/I5[RAMP TO NB I5,NB I5 TO/JANTZEN BEACH,I5 Next Ramp,0,0,0.0,-50,-50.0
+Q,Queen,Phonetic Alphabet,2,2,210.0,-77,137.0
+NB I5 TO/NB I405,MACADAM/GAINES[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Oldsmobile,OLDS,Vehicle Abbreviations,2,2,574.0,60,638.0
+ZERO,1,Type Code Priority,0,0,0.0,-50,-50.0
+GOING/I5[RAMP TO NB I5,ALBERTA/I5[RAMP TO NB I5,I5 Next Ramp,1,1,1201.0,476,1679.0
+Vaughn,2000,100 Blocks - NW St,0,0,0.0,-50,-50.0
+SB I5 TO/BARBUR,SB I5 TO/MULTNOMAH,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Chemical/Biological Weapon,33C,Sensitive Incident Codes,2,2,385.0,-71,318.0
+ALRMD,1,Type Code Priority,0,0,0.0,-50,-50.0
+Callback,CB,Common Abbreviations,2,2,549.0,69,622.0
+Commercial,500,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+DISTW,1,Type Code Priority,0,0,0.0,-50,-50.0
+ASSLT,7,Type Code Priority,2,0,92.0,79,173.0
+Montana,MT,State Abbreviations,2,2,189.0,-152,41.0
+NB I5 TO/MARINE DR,NB I5 TO/VICTORY,I5 Previous Ramp,0,0,0.0,-50,-50.0
+NB I5 TO/COLUMBIA,NB I5 TO/VICTORY,I5 Next Ramp,0,0,0.0,-50,-50.0
+ROSA PARKS/I5[RAMP TO SB I5,SB I5 TO/ALBERTA,I5 Next Ramp,0,0,0.0,-50,-50.0
+BARBUR/64[RAMP TO NB I5,CAPITOL/HUBER[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Conscious,CONS,Common Abbreviations,2,2,614.0,-67,551.0
+SB I5 TO/MORRISON BRG,SB I5 TO/EB I84,I5 Previous Ramp,1,1,1168.0,142,1312.0
+THEFT,7,Type Code Priority,1,1,350.0,63,415.0
+SB I5 TO/MORRISON BRG,WB I84 TO/SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Utah,UT,State Abbreviations,2,2,203.0,-73,134.0
+ROVIO,7,Type Code Priority,1,1,355.0,-138,219.0
+Nissan,NISS,Vehicle Abbreviations,3,1,354.0,30,388.0
+RIVER/HARBOR[RAMP TO SB I5,SB I405 TO/SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Plymouth,PLYM,Vehicle Abbreviations,1,1,135.0,-139,-2.0
+TRASHP,4,Type Code Priority,1,1,360.0,-123,239.0
+INFO,4,Type Code Priority,0,0,0.0,-50,-50.0
+BARBUR/64[RAMP TO NB I5,NB I5 NO/BARBUR,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Multnomah County Sheriff Office Troutdale,234 SW Kendall Ct,Precinct Address,4,4,195.0,-205,-2.0
+Kansas,KS,State Abbreviations,4,4,615.0,130,753.0
+U,Union,Phonetic Alphabet,2,2,391.0,-155,240.0
+Florida,FL,State Abbreviations,4,4,482.0,54,544.0
+Sick,26,EMD Protocols,0,0,0.0,-50,-50.0
+Vancouver,200,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Multnomah,8000,100 Blocks - SW St,0,0,0.0,-50,-50.0
+WEIDLER/WHEELER[RAMP TO SB I5,SB I5 TO/BROADWAY,I5 Previous Ramp,0,0,0.0,-50,-50.0
+CAPITOL/I5[RAMP TO SB I5,SB I5 TO/CAPITOL,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Hawaii,HI,State Abbreviations,3,3,172.0,-161,17.0
+Alberta,5000,100 Blocks - NE St,0,0,0.0,-50,-50.0
+CAPITOL/HUBER[RAMP TO NB I5,BARBUR/64[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SB I5 TO/MACADAM,RIVER/HARBOR[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Division,2500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+MACADAM/GAINES[RAMP TO NB I5,NB I5 TO/NB I405,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Delaware,DE,State Abbreviations,4,2,46.0,-26,26.0
+Mohawk,8000,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+NB I5 TO/VICTORY,NB I5 TO/COLUMBIA,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Rape,39A,Sensitive Incident Codes,2,2,209.0,-105,108.0
+VEHREC,7,Type Code Priority,1,1,358.0,6,366.0
+HARASS,7,Type Code Priority,1,1,347.0,-33,316.0
+Spring Garden,8500,100 Blocks - SW St,0,0,0.0,-50,-50.0
+Oklahoma,OK,State Abbreviations,2,2,229.0,-127,106.0
+Oregon Health Science University,SW Sam Jackson Park Rd/SW Campus Dr,Hospital Intersection,5,3,430.0,-27,411.0
+ROVIOW,1,Type Code Priority,0,0,0.0,-50,-50.0
+COLUMBIA/I5[RAMP TO SB I5,LOMBARD/I5[WB RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Suzuki,SUZI,Vehicle Abbreviations,2,2,1314.0,549,1867.0
+Fessenden,9500,100 Blocks - N St,0,0,0.0,-50,-50.0
+Burnside,0,100 Blocks - SE St,0,0,0.0,-50,-50.0
+Domestic Violence,DV,Common Abbreviations,3,1,255.0,-214,45.0
+SB I5 TO/JANTZEN BEACH,TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Silver,SILV,Color Abbreviations,3,1,467.0,107,578.0
+Attempt to Locate,ATL,Common Abbreviations,2,2,595.0,147,746.0
+Flavel,7500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+Heart Problems,19,EMD Protocols,0,0,0.0,-50,-50.0
+Oregon Health Science University,UH,Hospital Abbreviation,4,4,410.0,-169,249.0
+Traffic Collision,29,EMD Protocols,0,0,0.0,-50,-50.0
+SB I5 TO/ALBERTA,ROSA PARKS/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+American Motors,AMC,Vehicle Abbreviations,2,2,620.0,53,677.0
+Stroke,28,EMD Protocols,0,0,0.0,-50,-50.0
+Traffic/K9 Division,4735 E Burnside St,Precinct Address,4,4,211.0,-112,107.0
+MORRISON BRG TO/NB I5,WB I84 TO/NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+HAZARD,4,Type Code Priority,1,1,1191.0,264,1457.0
+Veteran's Hospital,VA,Hospital Abbreviation,5,5,482.0,-114,378.0
+Caruthers,2400,100 Blocks - SW St,0,0,0.0,-50,-50.0
+CAPITOL/HUBER[RAMP TO NB I5,NB I5 TO/TAYLORS FERRY,I5 Next Ramp,0,0,0.0,-50,-50.0
+Light,LT,Color Abbreviations,2,2,571.0,-117,458.0
+SHOOT,4,Type Code Priority,0,0,0.0,-50,-50.0
+Mental Health,25,EMD Protocols,0,0,0.0,-50,-50.0
+Chevrolet,CHEV,Vehicle Abbreviations,2,2,418.0,-186,236.0
+Powell,3500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+V,Victor,Phonetic Alphabet,3,3,755.0,163,924.0
+Mississippi,MS,State Abbreviations,2,2,210.0,-166,48.0
+Emanuel Hospital,EM,Hospital Abbreviation,5,5,727.0,-26,711.0
+SUICD,2,Type Code Priority,0,0,0.0,-50,-50.0
+Infinity,INFI,Vehicle Abbreviations,2,2,612.0,168,784.0
+SB I5 TO/EB I84,WEIDLER/WHEELER[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Louisiana,LA,State Abbreviations,3,3,168.0,-96,78.0
+Mt Hood Medical Center,NE Rene Av/SE Stark St,Hospital Intersection,4,4,404.0,16,428.0
+ECIT,2,Type Code Priority,0,0,0.0,-50,-50.0
+MARINE DR/I5[RAMP TO NB I5,DENVER/SCHMEER[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SCHLP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Russell,2600,100 Blocks - NE St,0,0,0.0,-50,-50.0
+NB I5 TO/TERWILLIGER,MULTNOMAH/22[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+ANIML,4,Type Code Priority,4,0,442.0,95,541.0
+Iowa,IA,State Abbreviations,4,4,673.0,62,743.0
+Interstate,1500,100 Blocks - N Ave,1,1,1198.0,270,1470.0
+North Dakota,ND,State Abbreviations,2,2,247.0,-126,125.0
+Porsche,PORS,Vehicle Abbreviations,3,1,425.0,-34,395.0
+Trauma,30,EMD Protocols,0,0,0.0,-50,-50.0
+Emanuel Hospital,2801 N Gantenbein Av,Hospital Address,4,4,396.0,-136,268.0
+MORRISON BRG TO/NB I5,NB I5 TO/EB I84,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Buick,BUIC,Vehicle Abbreviations,3,1,450.0,137,591.0
+NB I5 TO/SB FREMONT BRG,BROADWAY/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+LOMBARD/I5[EB RAMP TO SB I5,SB I5 TO/ROSA PARKS,I5 Next Ramp,0,0,0.0,-50,-50.0
+MARINE DR/I5[RAMP TO SB I5,SB I5 TO/MARINE DR,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Salmon,1000,100 Blocks - SW St,0,0,0.0,-50,-50.0
+SW Clay,1500,SW 100 Block,5,5,422.0,-19,413.0
+Mitsubishi,MITS,Vehicle Abbreviations,2,2,536.0,-76,464.0
+Bike Path,BP,Common Abbreviations,2,2,1309.0,286,1599.0
+DUII,4,Type Code Priority,1,1,381.0,-64,319.0
+VEHST,7,Type Code Priority,1,1,380.0,-134,248.0
+Wyoming,WY,State Abbreviations,3,3,1392.0,259,1657.0
+SW Market,1600,SW 100 Block,5,5,396.0,-166,240.0
+Person Down Unknown,32,EMD Protocols,0,0,0.0,-50,-50.0
+Other Sexual Assault,39B,Sensitive Incident Codes,2,2,224.0,-108,120.0
+Harold,5500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+NOISE,7,Type Code Priority,0,0,0.0,-50,-50.0
+Vibra Specialty Hospital,VB,Hospital Abbreviation,4,4,248.0,-238,18.0
+NB I5 TO/JANTZEN BEACH,JANTZEN/HAYDEN ISLAND[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Duke,6500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+WELCK,4,Type Code Priority,1,1,1196.0,255,1453.0
+Black Female,BF,Common Abbreviations,2,2,547.0,116,667.0
+Indiana,IN,State Abbreviations,4,4,424.0,-186,246.0
+BROADWAY/I5[RAMP TO NB I5,NB I5 TO/SB FREMONT BRG,I5 Next Ramp,0,0,0.0,-50,-50.0
+Mercedes Benz,MERZ,Vehicle Abbreviations,2,2,585.0,95,684.0
+Assault,ASSLT,Common Abbreviations,2,2,533.0,-132,405.0
+Traffic/K9 Division,SE 47 Av/E Burnside St,Precinct Intersection,5,5,414.0,-196,228.0
+RAPE,4,Type Code Priority,1,1,369.0,46,417.0
+I,Ida,Phonetic Alphabet,2,2,224.0,-93,135.0
+DISTP,2,Type Code Priority,0,0,0.0,-50,-50.0
+TOMAHAWK ISLAND/CENTER[RAMP TO SB I5,SB I5 TO/JANTZEN BEACH,I5 Previous Ramp,0,0,0.0,-50,-50.0
+K,King,Phonetic Alphabet,2,2,401.0,-61,344.0
+ABUSEP,2,Type Code Priority,0,0,0.0,-50,-50.0
+NB I5 TO/GOING,GOING/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+New Jersey,NJ,State Abbreviations,2,2,229.0,-152,81.0
+TUNNEL,2,Type Code Priority,0,0,0.0,-50,-50.0
+Black Male,BM,Common Abbreviations,2,2,573.0,61,638.0
+Tesla,TESL,Vehicle Abbreviations,2,2,498.0,28,530.0
+Ida,6900,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+SB I5 TO/PACIFIC HWY,CAPITOL/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Veteran's Hospital,SW US Veterans Hospital Rd/SW Terwilliger Blvd,Hospital Intersection,4,4,185.0,-114,79.0
+Stark,500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+White,WHI,Color Abbreviations,2,2,585.0,32,621.0
+G,George,Phonetic Alphabet,2,2,250.0,-20,234.0
+SB I405 TO/NB I5,NB I5 TO/EB I84,I5 Next Ramp,0,0,0.0,-50,-50.0
+ECITW,1,Type Code Priority,1,1,1171.0,282,1455.0
+Woolsey,4500,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+PROP,7,Type Code Priority,1,1,374.0,3,379.0
+Holgate,4500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+Eagle,EGIL,Vehicle Abbreviations,2,2,628.0,61,693.0
+PARTY,7,Type Code Priority,0,0,0.0,-50,-50.0
+North Carolina,NC,State Abbreviations,2,2,223.0,-78,149.0
+SB I5 TO/NB I405,WB I84 TO/SB I5,I5 Previous Ramp,1,1,1176.0,500,1678.0
+ROSA PARKS/I5[RAMP TO NB I5,NB I5 TO/ROSA PARKS,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Glisan,500,100 Blocks - NW St,0,0,0.0,-50,-50.0
+Vibra Specialty Hospital,NE 102 Av/NE Hancock St,Hospital Intersection,4,4,191.0,-245,-46.0
+SB I5 TO/PACIFIC HWY,BARBUR/64[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Lombard,7500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Animal Attacks,3,EMD Protocols,0,0,0.0,-50,-50.0
+Broadway,700,100 Blocks - NW Ave,0,0,0.0,-50,-50.0
+Woodstock,6000,100 Blocks - SE St,0,0,0.0,-50,-50.0
+Williams,0,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+ACCNON,4,Type Code Priority,0,0,0.0,-50,-50.0
+SW Multnomah Blvd,8000,SW 100 Block,4,4,404.0,-198,214.0
+Mississippi,900,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+ACCINJ,2,Type Code Priority,0,0,0.0,-50,-50.0
+DEVICE,3,Type Code Priority,0,0,0.0,-50,-50.0
+Kentucky,KY,State Abbreviations,4,4,516.0,27,551.0
+Datsun,DATS,Vehicle Abbreviations,2,2,591.0,82,677.0
+Breathing Problems,6,EMD Protocols,0,0,0.0,-50,-50.0
+Skidmore,4300,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Subaru,SUBA,Vehicle Abbreviations,2,2,644.0,24,672.0
+SCHL,6,Type Code Priority,0,0,0.0,-50,-50.0
+ROVIOP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Providence Hospital,NE 47 Av/NE Glisan St,Hospital Intersection,5,5,718.0,158,886.0
+COVER3,1,Type Code Priority,1,1,1169.0,487,1658.0
+NW Vaughn,2000,NW 100 Block,4,4,404.0,-111,301.0
+ALRMR,1,Type Code Priority,0,0,0.0,-50,-50.0
+New York,NY,State Abbreviations,2,2,253.0,-81,176.0
+SW Caruthers,2400,SW 100 Block,5,5,708.0,9,727.0
+Kawasaki,KAW,Vehicle Abbreviations,2,2,608.0,143,755.0
+Gresham PD,1333 NW Eastman Pkwy,Precinct Address,4,4,244.0,-199,53.0
+Boyfriend,BOYF,Common Abbreviations,2,2,1302.0,108,1414.0
+Chautauqua,4000,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+DENVER/SCHMEER[RAMP TO NB I5,MARINE DR/I5[RAMP TO NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Shaver,4000,100 Blocks - NE St,0,0,0.0,-50,-50.0
+St Louis,9100,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Pregnancy,24,EMD Protocols,0,0,0.0,-50,-50.0
+Oregon Health Science University,3181 SW Sam Jackson Park Rd,Hospital Address,5,3,144.0,-122,30.0
+Good Samaritan Hospital,NW 22 Av/NW Lovejoy St,Hospital Intersection,5,3,-425.0,502,85.0
+Turquoise,TRQ,Color Abbreviations,2,2,418.0,-98,324.0
+ALRMBP,3,Type Code Priority,0,0,0.0,-50,-50.0
+Community Center,CC,Common Abbreviations,2,2,1301.0,206,1511.0
+Illinois,IL,State Abbreviations,4,4,696.0,74,778.0
+WB I84 TO/NB I5,NB I5 TO/WEIDLER,I5 Next Ramp,0,0,0.0,-50,-50.0
+NB I5 TO/ROSA PARKS,ALBERTA/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+SEX,7,Type Code Priority,2,0,81.0,-14,69.0
+FOOD,7,Type Code Priority,0,0,0.0,-50,-50.0
+Weidler,1600,100 Blocks - NE St,0,0,0.0,-50,-50.0
+NB I5 TO/GREELEY,NB FREMONT BRG TO/NB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+W,William,Phonetic Alphabet,3,3,735.0,35,776.0
+Oregon,OR,State Abbreviations,2,2,236.0,-49,191.0
+PROWLP,3,Type Code Priority,2,0,594.0,173,769.0
+Idaho,ID,State Abbreviations,3,3,175.0,-196,-15.0
+Tennesse,TN,State Abbreviations,2,2,204.0,-189,19.0
+Falls,17,EMD Protocols,0,0,0.0,-50,-50.0
+Asian Male,AM,Common Abbreviations,2,2,551.0,132,687.0
+Washington,500,100 Blocks - SW St,1,1,1215.0,254,1471.0
+Buchanan,7500,100 Blocks - N Ave,0,0,0.0,-50,-50.0
+Transfer,33,EMD Protocols,0,0,0.0,-50,-50.0
+THRETW,1,Type Code Priority,0,0,0.0,-50,-50.0
+Dekum,6800,100 Blocks - NE St,2,0,585.0,281,868.0
+Purple,PURP,Color Abbreviations,2,2,599.0,78,681.0
+KIDNAP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Drowning,14,EMD Protocols,0,0,0.0,-50,-50.0
+ALRMS,2,Type Code Priority,0,0,0.0,-50,-50.0
+SHOTS,3,Type Code Priority,0,0,0.0,-50,-50.0
+Broadway,700,100 Blocks - SW Ave,0,0,0.0,-50,-50.0
+Behind,BEH,Common Abbreviations,2,2,419.0,-165,258.0
+Glisan,500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+DIST,6,Type Code Priority,2,0,99.0,-61,40.0
+New Hampshire,NH,State Abbreviations,2,2,224.0,-76,152.0
+MLK,400,100 Blocks - NE Ave,0,0,0.0,-50,-50.0
+Apartment,APT,Common Abbreviations,2,2,567.0,75,646.0
+North Precinct,NO,Precinct Abbreviation,4,4,226.0,-92,142.0
+Burnside,0,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Yamaha,YAMA,Vehicle Abbreviations,2,2,520.0,97,621.0
+RAPEP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Grey,GRY,Color Abbreviations,2,2,555.0,108,667.0
+Black,BLK,Color Abbreviations,2,2,621.0,5,630.0
+LOMBARD/I5[WB RAMP TO SB I5,LOMBARD/I5[EB RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Jaguar,JAG,Vehicle Abbreviations,2,2,598.0,149,751.0
+NB I5 TO/CORBETT,TERWILLIGER/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+WB I84 TO/NB I5,MORRISON BRG TO/NB I5,I5 Previous Ramp,1,1,1195.0,250,1447.0
+NB I5 TO/LOMBARD WB,NB I5 TO/COLUMBIA,I5 Next Ramp,0,0,0.0,-50,-50.0
+Rhode Island,RI,State Abbreviations,2,2,231.0,-259,-24.0
+Stab/Gunshot,27,EMD Protocols,2,0,581.0,104,687.0
+TMETP,2,Type Code Priority,0,0,0.0,-50,-50.0
+Burgundy,BURG,Color Abbreviations,2,2,530.0,-99,435.0
+MSGD,4,Type Code Priority,0,0,0.0,-50,-50.0
+Diabetic Problems,13,EMD Protocols,0,0,0.0,-50,-50.0
+MEDICL,2,Type Code Priority,0,0,0.0,-50,-50.0
+Market,1600,100 Blocks - SW St,0,0,0.0,-50,-50.0
+Mercury,MERC,Vehicle Abbreviations,2,2,532.0,86,622.0
+Washington,WA,State Abbreviations,2,2,193.0,-169,28.0
+Good Samaritan Hospital,GS,Hospital Abbreviation,4,4,248.0,-142,114.0
+H,Henry,Phonetic Alphabet,2,2,239.0,-237,6.0
+GREELEY/I5[RAMP TO SB I5,NB FREMONT BRG TO/SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Unity Center for Behavioral Health,1225 NE 2 Av,Hospital Address,6,4,549.0,-71,488.0
+Baseball Cap,BBCAP,Common Abbreviations,2,2,584.0,180,768.0
+Hemorrhage,21,EMD Protocols,0,0,0.0,-50,-50.0
+Inaccessible,22,EMD Protocols,0,0,0.0,-50,-50.0
+Fremont,3500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+SB I405 TO/NB I5,MACADAM/GAINES[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+Check,CK,Common Abbreviations,2,2,442.0,-54,392.0
+Clay,1500,100 Blocks - SW St,0,0,0.0,-50,-50.0
+SW Spring Garden,8500,SW 100 Block,5,3,200.0,-217,-9.0
+Mt Hood Medical Center,24800 SE Stark St,Hospital Address,4,4,409.0,21,438.0
+WRONG,1,Type Code Priority,1,1,1204.0,99,1305.0
+Portsmouth,5300,100 Blocks - N Ave,2,0,570.0,385,957.0
+Y,Yellow,Phonetic Alphabet,2,2,390.0,-78,316.0
+ALBERTA/I5[RAMP TO SB I5,SB I5 TO/ALBERTA,I5 Previous Ramp,0,0,0.0,-50,-50.0
+S,Sam,Phonetic Alphabet,3,3,713.0,-54,665.0
+Green,GRN,Color Abbreviations,1,1,128.0,-157,-27.0
+Date of Birth,DOB,Common Abbreviations,2,2,533.0,-58,479.0
+Arizona,AZ,State Abbreviations,5,3,683.0,34,725.0
+NB I5 TO/LOMBARD EB,ROSA PARKS/I5[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+B,Baker,Phonetic Alphabet,2,2,228.0,-93,139.0
+STNDBY,6,Type Code Priority,0,0,0.0,-50,-50.0
+SB I5 TO/CAPITOL,CAPITOL/I5[RAMP TO SB I5,I5 Next Ramp,0,0,0.0,-50,-50.0
+Central Precinct,CE,Precinct Abbreviation,5,5,418.0,-54,374.0
+Portland Adventist Hospital,SE 100 Av/SE Market St,Hospital Intersection,5,3,500.0,-62,446.0
+Between,BTWN,Common Abbreviations,2,2,1331.0,261,1596.0
+TERWILLIGER/I5[RAMP TO NB I5,MULTNOMAH/22[RAMP TO NB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+UNWNTW,1,Type Code Priority,0,0,0.0,-50,-50.0
+Hawthorne,1500,100 Blocks - SE St,0,0,0.0,-50,-50.0
+GOING/I5[RAMP TO SB I5,ALBERTA/I5[RAMP TO SB I5,I5 Previous Ramp,0,0,0.0,-50,-50.0
+NW Lovejoy,1000,NW 100 Block,5,5,669.0,96,775.0
+BROADWAY/I5[RAMP TO NB I5,NB I5 TO/WEIDLER,I5 Previous Ramp,0,0,0.0,-50,-50.0
+California,CA,State Abbreviations,4,4,1382.0,273,1663.0
+District of Columbia,DC,State Abbreviations,4,4,422.0,-174,256.0
+Maine,ME,State Abbreviations,3,3,173.0,-118,61.0
+Rosa Parks,6500,100 Blocks - NE St,0,0,0.0,-50,-50.0
+Lincoln,LINC,Vehicle Abbreviations,2,2,447.0,-121,330.0
+Texas,TX,State Abbreviations,2,2,399.0,-160,243.0
