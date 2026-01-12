@@ -594,3 +594,38 @@ SUSPW,1,Type Code Priority,10,10,4944.0,223,5187
 SHOOTW,1,Type Code Priority,10,10,5151.0,418,5589
 DOMW,1,Type Code Priority,10,10,5169.0,464,5653
 THRETW,1,Type Code Priority,10,10,5539.0,165,5724
+LV,Location view,CAD Commands,0,0,0,0,0
+MAP,Control the map,CAD Commands,0,0,0,0,0
+DEL,Delete messages,CAD Commands,0,0,0,0,0
+EMER,Sends an emergency message,CAD Commands,0,0,0,0,0
+FW,Forwards a message,CAD Commands,0,0,0,0,0
+MSG,Opens a message,CAD Commands,0,0,0,0,0
+REPLY, Replies to a message,CAD Commands,0,0,0,0,0
+SEE,Sends a call for someone else to see,CAD Commands,0,0,0,0,0
+TO,Sends a message,CAD Commands,0,0,0,0,0
+TOP,Sends a hot message,CAD Commands,0,0,0,0,0
+CLONE,Creates an identical call,CAD Commands,0,0,0,0,0
+FUP,Creates a follow-up call,CAD Commands,0,0,0,0,0
+DUPL,Creates a dupplicate call,CAD Commands,0,0,0,0,0
+VRC,View related calls,CAD Commands,0,0,0,0,0
+MR,Read mail,CAD Commands,0,0,0,0,0
+INFO,Open info file,CAD Commands,0,0,0,0,0
+CH,View command history,CAD Commands,0,0,0,0,0
+HT,Alert everyone to something hot happening in a call,CAD Commands,0,0,0,0,0
+PU,Pick up commands,CAD Commands,0,0,0,0,0
+CB,Call back command,CAD Commands,0,0,0,0,0
+CAN,Cancel a call,CAD Commands,0,0,0,0,0
+UH,Unit history querry,CAD Commands,0,0,0,0,0
+M,Add quiet update to call,CAD Commands,0,0,0,0,0
+SUP,Add hot update to call,CAD Commands,0,0,0,0,0
+NT,View attachments,CAD Commands,0,0,0,0,0
+OP,Log off,CAD Commands,0,0,0,0,0
+R,Retrieve call by number,CAD Commands,0,0,0,0,0
+U,Update call information,CAD Commands,0,0,0,0,0
+V,View call remarks,CAD Commands,0,0,0,0,0
+WHERE,See where a person is logged in,CAD Commands,0,0,0,0,0
+WHO,See who is signed in where,CAD Commands,0,0,0,0,0
+Q,Pulls up queued calls,CAD Commands,0,0,0,0,0
+ACT,Pulls up active calls,CAD Commands,0,0,0,0,0
+RQ,Requeue call,CAD Commands,0,0,0,0,0
+QBD,Querry by date,CAD Commands,0,0,0,0,0
